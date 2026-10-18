@@ -1,0 +1,1001 @@
+text,SAMPAH,LUBANG,KARATAN,RETAKAN,label
+woi ada lubang di trotoar di sebelah gedung a bahaya banget,0,1,0,0,LUBANG
+lantai retak bahaya bnaget,0,0,0,1,RETAKAN
+di lapangan basket paving block amblas membentuk lubang sudah lama dibiarkan,0,1,0,0,LUBANG
+"mohon dicek, di dekat pos satpam tembok mau roboh karena retak sudah lama dibiarkan",0,0,0,1,RETAKAN
+"permisi, sampah daun dan plastik menumpuk di lapangan basket mengganggu banget",1,0,0,0,SAMPAH
+"permisi, di jalan belakang kampus keramik pecah dan retak",0,0,0,1,RETAKAN
+di dekat gerbang utama aspal jebol,0,1,0,0,LUBANG
+sampah kertas berhamburan disini sudah lama dibiarkan,1,0,0,0,SAMPAH
+"permisi, disini bungkus makanan dibuang sembarangan tolong segera ditindaklanjuti",1,0,0,0,SAMPAH
+"mohon dicek, tong sampah tidak muat lagi di ruang kelas 3.2 bahaya banget",1,0,0,0,SAMPAH
+"lapor, lantai retak di sebelah gedung b sudah seminggu begini",0,0,0,1,RETAKAN
+"permisi, plafon retak dan mengelupas, selain itu banyak sampah di parkiran motor",1,0,0,1,"SAMPAH,RETAKAN"
+pak di sebelah gedung A tembok rusak sudah seminggu begini,0,0,0,1,RETAKAN
+di kantin cuaca hujan deras,0,0,0,0,NONE
+gaes jalannya berlubang parah,0,1,0,0,LUBANG
+dekat perpustakaan keran air berkarat sudah seminggu begini,0,0,1,0,KARATAN
+woi bangku besi banyak karat di dekat pos satpam,0,0,1,0,KARATAN
+"halo, pintu susah dibuka di sini",0,0,0,0,NONE
+"info: di dekat pos satpam lubang menganga di trotoar, sampah menumpuk udah lama ga diperbaiki",1,1,0,0,"SAMPAH,LUBANG"
+woi tumpukan sampah menggunung di dekat gerbang utama udah lama ga diperbaiki,1,0,0,0,SAMPAH
+"mohon dicek, sampah belum diangkut berhari-hari di dekat pos satpam",1,0,0,0,SAMPAH
+min pagar sudah karatan di kantin mengganggu banget,0,0,1,0,KARATAN
+"halo, bau sampah enyengat di area kampus",1,0,0,0,SAMPAH
+"lapor, jalan berlubang dalam di sekitar asrama mengganggu banget",0,1,0,0,LUBANG
+"halo, sampah platik bertebaran di gedung E parah banget",1,0,0,0,SAMPAH
+proyektor tidak menyala di kantin bahaya banget,0,0,0,0,NONE
+"halo, kursi besi karatan bahaya banget",0,0,1,0,KARATAN
+di sekitar asrama railing tangga berkarat parah banget,0,0,1,0,KARATAN
+"halo, bau sampah menyengat dekat toilet mengganggu banget",1,0,0,0,SAMPAH
+info: pintu besi penuh karat,0,0,1,0,KARATAN
+pak di samping laboratorium pagar besi berkarat,0,0,1,0,KARATAN
+tumpukan sampah menggunung di depan aula tolong dicek ya,1,0,0,0,SAMPAH
+woi di jalan belakang kampus tempat sampah penuh dan meluap mengganggu banget,1,0,0,0,SAMPAH
+"tolong perbaiki, di ruang kelas 3.2 ada lubang di trotoar mohon segera dibersihkan",0,1,0,0,LUBANG
+"mohon dicek, di jalan belakang kampus banyak lubang kecil di jalan sudah seminggu begini",0,1,0,0,LUBANG
+"permisi, meja berkarat dekat perpustakaan bahaya banget",0,0,1,0,KARATAN
+di sekitar kantin tembok pagar retak udah lama ga diperbaiki,0,0,0,1,RETAKAN
+"mohon dicek, engsel pintu berkarat di jalan menuju rektorat sudah lama dibiarkan",0,0,1,0,KARATAN
+"woi dinding retak-retak, tumpukan sampah menggunung terus besi penyangga sudah berkarat di sebelah gedung A makasih",1,0,1,1,"SAMPAH,KARATAN,RETAKAN"
+info: di dekat gerbang utama jalan rusak banyak lubang dan dinding retak-retak sudah seminggu begini,0,1,0,1,"LUBANG,RETAKAN"
+di jalan menuju rektorat sampah menyumbat selokan,1,0,0,0,SAMPAH
+"mohon dicek, di gedung e gerang karatan",0,0,1,0,KARATAN
+min lampu jalan redup di fakultas ekonomi,0,0,0,0,NONE
+di sini tiang bangunan retak parah banget,0,0,0,1,RETAKAN
+rak besi karatan mohon segera dibersihkan,0,0,1,0,KARATAN
+di lantai 2 gedung C tembok pagar retak tolong segera ditindaklanjuti,0,0,0,1,RETAKAN
+kak ada retakan besar di dinding makasih,0,0,0,1,RETAKAN
+keramik pecah dan retak mengganggu banget,0,0,0,1,RETAKAN
+kanopi berkarat dan keropos di dekat lapangan futsal tolong segera ditindaklanjuti,0,0,1,0,KARATAN
+"halo, di sebelah gedung B tempat sampah penuh dan meluap tolong segera ditindaklanjuti",1,0,0,0,SAMPAH
+"woi dekat perpustakaan tembok rusak, selain itu ada lubang mengganggu banget",0,1,0,1,"LUBANG,RETAKAN"
+pak aspal jebol di sebelah gedung A mohon segera dibersihkan,0,1,0,0,LUBANG
+di sekitar asrama jalan berlubang dalam,0,1,0,0,LUBANG
+"halo, jalan berlubang dalam di jalan belakang kampus parah banget",0,1,0,0,LUBANG
+engsel pintu berkarat mohon segera dibersihkan,0,0,1,0,KARATAN
+"lapor, keran air berkarat juga ada lubang di trotoar di gedung E udah lama ga diperbaiki",0,1,1,0,"LUBANG,KARATAN"
+"mohon dicek, di jalan menuju rektorat besi penyangga sudah berkarat",0,0,1,0,KARATAN
+ada retakan di tembok juga puntung rokok berserakan di belakang masjid kampus parah banget,1,0,0,1,"SAMPAH,RETAKAN"
+"mohon dicek, disini tangga besi karatan parah banget",0,0,1,0,KARATAN
+ada retakan besar di dinding terus puntung rokok berserakan di koridor gedung C,1,0,0,1,"SAMPAH,RETAKAN"
+pak tembok rusak dan retak di taman kampus bahaya banget,0,0,0,1,RETAKAN
+"halo, aspal bolong dekat perpuustakaan sudah seminggu begini",0,1,0,0,LUBANG
+"tolong perbaiki, di sebelah gedung A ada lubang di trotoar",0,1,0,0,LUBANG
+info: bungkus makanan dibuang seembarangan di kantin tolong dicek ya,1,0,0,0,SAMPAH
+pak kanopi berkarat dan keropos di belakang gedung B parah banget,0,0,1,0,KARATAN
+gaes botol bekas minuman dibiarkan,1,0,0,0,SAMPAH
+"lapor, lift sering macet di taman kampus",0,0,0,0,NONE
+info: railing tangga berkarat di ruang kelas 3.2 tolong segera ditindaklanjuti,0,0,1,0,KARATAN
+kak dinding retak parah di halamna gedung D makasih,0,0,0,1,RETAKAN
+disini kucing berkeliaran,0,0,0,0,NONE
+"tolong perbaiki, sampah dibiarkan membusuk di ruang kelas 3.2",1,0,0,0,SAMPAH
+"tolonng perbaiki, dinding retak-retak makasih",0,0,0,1,RETAKAN
+pak rangka atap berkarat parah juga jalan berlubang dalam di dekat halte,0,1,1,0,"LUBANG,KARATAN"
+ruangan terlalu panas di gedung e udah lama ga diperbakii,0,0,0,0,NONE
+"tolong perbaiki, air toilet tidak mengalir di dekat lapangan futsal mohon segera dibersihkan",0,0,0,0,NONE
+di samping laboratorium aspal jebol bahaya banget,0,1,0,0,LUBANG
+"halo, plafon retak dan mengelupas di taman kampus makasih",0,0,0,1,RETAKAN
+gaes kantin ramai saat istirahat dekat perpustakaan,0,0,0,0,NONE
+"info: puntung rokok berserakan, tembok pagar retak di koridor gedung C",1,0,0,1,"SAMPAH,RETAKAN"
+"mohon dicek, gerbang karatan di sebelah gedung b udah lama ga diperbaiki",0,0,1,0,KARATAN
+"lapor, di taman kampus jalannya berlubang parah mohon segera dibersihkan",0,1,0,0,LUBANG
+woi jalannya berlubang parah tolong segera ditindaklanjuti,0,1,0,0,LUBANG
+info: dih alaman gedung D wifi lambat,0,0,0,0,NONE
+jalan bolong-bolong di halaman gedung d udah lama ga diperbaiki,0,1,0,0,LUBANG
+kak rangka atap berkarat parah di jalan menuju rektorat,0,0,1,0,KARATAN
+"lapor, di taman kampus dinding gedung retak memanajng mohon segera dibersihkan",0,0,0,1,RETAKAN
+meja berkarat bahaya banget,0,0,1,0,KARATAN
+gaes di sekitar kantin papan tulis sulit dibaca sudah lama dibiarkan,0,0,0,0,NONE
+di sebelah gedung a proyektor tidak menyala bahaya banget,0,0,0,0,NONE
+di area kampus tembok pagar retak tolong dicek ya,0,0,0,1,RETAKAN
+di sini tembok pagar retak tolong segera ditindaklanjuti,0,0,0,1,RETAKAN
+min kursi kurang untuk peserta seminar di koridor gedung C tolong segera ditindaklanjuti,0,0,0,0,NONE
+kak di lantai 2 gedung C ada lubang mengganggu banget,0,1,0,0,LUBANG
+"halo, kursi besi karatan serta bungkus makanan dibuang sembarangan di lapangan basket",1,0,1,0,"SAMPAH,KARATAN"
+ada retakan besard i dinding di depan gedung A bahaya banget,0,0,0,1,RETAKAN
+bsi penyangga sudah berkarat di taman kampus sudah seminggu begini,0,0,1,0,KARATAN
+pak keran air berkarat di kantin,0,0,1,0,KARATAN
+pak di lantai 2 gedung C kelasnya nyaman dan bersih sudah seminggu begini,0,0,0,0,NONE
+plafon retak dan mengelupas di ruang kelas 3.2 sudah lama dibiarkan,0,0,0,1,RETAKAN
+sampah kertas berhamburan di jalan belakang kampus tolong dicek ya,1,0,0,0,SAMPAH
+di lapangan basket aspal bolong,0,1,0,0,LUBANG
+woi sampah menyumbat selokan juga jalannya berlubang parah di belakang gedung B udah lama ga diperbaiki,1,1,0,0,"SAMPAH,LUBANG"
+min kotor banyak sampah di depan gedung A,1,0,0,0,SAMPAH
+"lapor, meja berkarat di halaman gedung D bahaya banget",0,0,1,0,KARATAN
+jendela kotor berdebu di taman kampus udah lama ga diperbaiki,0,0,0,0,NONE
+"lapor, pagar sudah karatan",0,0,1,0,KARATAN
+pak pagar sudah karatan serta dinding retak-retak di depan aula makasih,0,0,1,1,"KARATAN,RETAKAN"
+"permisi, di area parkir dosen pintu besi penuh karat",0,0,1,0,KARATAN
+keran air berkarat disini sudah lama dibiaran,0,0,1,0,KARATAN
+"di belakang masjid kampus ada lubang dan bangku besi banyak karat, selain itu ada retakan di tembok sudah lama dibiarkan",0,1,1,1,"LUBANG,KARATAN,RETAKAN"
+"halo, ada kantong kresek berisi sampah di lantai 2 gedung C",1,0,0,0,SAMPAH
+kak keramik pecah dan retak di area parkir dosen tolong dicek ya,0,0,0,1,RETAKAN
+"halo, besi penyangga sudah berkarat di depan gedung A tolong segera ditindaklanjuti",0,0,1,0,KARATAN
+"tolong perbaiki, di area kampus tembok mau roboh karena retak serta sampah dibiarkan membusuk, paving block amblas membentuk lubang makasih",1,1,0,1,"SAMPAH,LUBANG,RETAKAN"
+"tolong perbaiki, sampah kertas berhamburan makasih",1,0,0,0,SAMPAH
+min di dekat lapangan futsal pagar besi berkarat tolong dicek ya,0,0,1,0,KARATAN
+"tolong perbaiki, besi penyangga sudah berkarat di kantin sudah lama dibiarkan",0,0,1,0,KARATAN
+gaes ada lubang di trotoar di taman kampus tolong segera ditindaklanjuti,0,1,0,0,LUBANG
+"halo, di area kampus dinding retak-retak sudah seminggu begini",0,0,0,1,RETAKAN
+"halo, retakan di lantai makin melebar dii dekat gerbang utama",0,0,0,1,RETAKAN
+gaes dinding retak parah,0,0,0,1,RETAKAN
+min bau sampah menyengat dekat toilet udah lama ga diperbaiki,1,0,0,0,SAMPAH
+"tolong perbaiki, di kantin aspal terkelupas dan berluban mohon segera dibersihkan",0,1,0,0,LUBANG
+woi tumpukan sampah menggunung di lantai 2 gedung C makasih,1,0,0,0,SAMPAH
+"lapor, tiang besi berkarat di ruang kelas 3.2",0,0,1,0,KARATAN
+"tolong perbaiki, kran air bocor di sekitar kantin sudah seminggu begini",0,0,0,0,NONE
+min tiang besi berkarat di sekitar asrama,0,0,1,0,KARATAN
+"mohon dicek, banyak lubang kecil di jalan dan sampah belum diangkut berhari-hari di lorong fakultas teknik bahaya banget",1,1,0,0,"SAMPAH,LUBANG"
+tangga besi karatan di dekat pos satpam makasih,0,0,1,0,KARATAN
+woi pagar sudah karatan di depan aula mengganggu banget,0,0,1,0,KARATAN
+pak di dekat lapangan futsal aspal bolong mengganggu banget,0,1,0,0,LUBANG
+min air toilet tidak mengalir di dekat pos satpam parah banget,0,0,0,0,NONE
+"permisi, sampah plastik bertebaran",1,0,0,0,SAMPAH
+"tolong perbaiki, rak besi karatan sertalubang di aspal makin besar di area kampus sudah seminggu begini",0,1,1,0,"LUBANG,KARATAN"
+kak di sebelah gedung A tembok rusak bahaya banget,0,0,0,1,RETAKAN
+kak jalan berlubang dalam di jalan blakang kampus,0,1,0,0,LUBANG
+"min jalannya berlubang parah, selain itu keramik pecah dan retak",0,1,0,1,"LUBANG,RETAKAN"
+info: di dekat lapangan futsal jalan bollong-bolong,0,1,0,0,LUBANG
+ada lubang di trotoar tolong segera ditindaklanjuti,0,1,0,0,LUBANG
+taman terlihat asri di belakang gedung B udah lama ga diperbaiki,0,0,0,0,NONE
+min railing tangga berkarat serta banyak sampah makanan terus jalanan berlubang di dekat lapangan futsal sudah lama dibiarkan,1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+"lapor, jalan berlubang dalam di dekat pos satpam",0,1,0,0,LUBANG
+"halo, pintu susah dibuka di lantai 2 gedung c mohon segera dibersihkan",0,0,0,0,NONE
+"tolong perbaiki, di ruang kelas 3.2 ada kantong kresek berisi sampah mohon segera dibersihkan",1,0,0,0,SAMPAH
+"lapor, dinding gedung retak memanjang di kantin",0,0,0,1,RETAKAN
+"halo, sampah kertas berhamburan, selain itu aspal bolong di dekat gerbang utama tolong segera ditindaklanjuti",1,1,0,0,"SAMPAH,LUBANG"
+pak tembok pecah-pecah di dekat gerbang utama,0,0,0,1,RETAKAN
+"mohon dicek, jalannya berlubang parah, ada kantong kresek berisi sampah di ruang kelas 3.2 mohon segera dibersihkan",1,1,0,0,"SAMPAH,LUBANG"
+"halo, ada lubang yang tergenang air saat hujan juga tumpukan sampah menggunung di jalan belakang kampus mohon segera dibersihkan",1,1,0,0,"SAMPAH,LUBANG"
+"tolong perbaiki, bau sampah menyengat di parkiran motor udah lama ga diperbaiki",1,0,0,0,SAMPAH
+kak di area parkir dosen ada lubang parah banget,0,1,0,0,LUBANG
+kak jalan bolong-bolong dekat perpustakaan sudah seminggu begini,0,1,0,0,LUBANG
+"tolong perbaiki, tembokk rusak dan retak di kantin mohon segera dibersihkan",0,0,0,1,RETAKAN
+"tolong perbaiki, di dekat halte ada kantong kresek berisi sampah parah banget",1,0,0,0,SAMPAH
+min sampah dibiarkan membusuk di parkiran motor mohon segera dibersihkan,1,0,0,0,SAMPAH
+"mohon dicek, di lorong fakultas teknik tumpukan sampah menggunung terus tembok pecah-pecah sudah seminggu begini",1,0,0,1,"SAMPAH,RETAKAN"
+di jalan menuju rektorat dinding retak parah makasih,0,0,0,1,RETAKAN
+"permisi, rangka atap berkarat parah di dekat gerbang utama udah lama ga diperbaiki",0,0,1,0,KARATAN
+min tangga besi karatan di lantai 2 gedung C,0,0,1,0,KARATAN
+kak jalanan berlubang di area parkir dosen makasih,0,1,0,0,LUBANG
+woi ada retakan besar di dinding di lapangan basket tolong segera ditindaklanjuti,0,0,0,1,RETAKAN
+"mohon dicek, tembok pecah-pecah di jalan belakang kampus",0,0,0,1,RETAKAN
+"lapor, cuaca hujan deras di sekitar kantin makasih",0,0,0,0,NONE
+ada retakan di tembok di parkiran motor mohon segera dibersihkan,0,0,0,1,RETAKAN
+info: jalan bolong-bolong di gedung E tolong dicek ya,0,1,0,0,LUBANG
+"permisi, kursi besi karatan di jalan menuju rektorat mohon segera dibersihkan",0,0,1,0,KARATAN
+kak cuaca hujan deras dekat perpustakaan parah banget,0,0,0,0,NONE
+pagar besi berkarat juga jalan rusak banyak lubang juga tembok rusak disini tolong segera ditindaklanjuti,0,1,1,1,"LUBANG,KARATAN,RETAKAN"
+tembok pagar retak di dekat pos satpam,0,0,0,1,RETAKAN
+di lapangan basket ada lubang terus tiang besi berkarat terus bau sampah menyengat tolong dicek ya,1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+"pak lantai rettak, selain itu meja berkarat",0,0,1,1,"KARATAN,RETAKAN"
+"mohon dicek, dekat perpustakaan lubang menganga di trotoar udah lam ga diperbaiki",0,1,0,0,LUBANG
+"lapor, tembok pecah-pecah mohon segera dibersihkan",0,0,0,1,RETAKAN
+di dekat kolam kampus pohon tumbang tolong dicek ya,0,0,0,0,NONE
+"permisi, di area parkir dosen sampah belum diangkut berhari-hari makasih",1,0,0,0,SAMPAH
+di area kampus botol bekas minuman dibiarkan tolong dicek ya,1,0,0,0,SAMPAH
+tembok pecah-pecah,0,0,0,1,RETAKAN
+"tolong perbaiki, di belakang gedung B lantai beton retak tolong segera ditindaklanjuti",0,0,0,1,RETAKAN
+pohon tumbang di ruang elas 3.2 sudah lama dibiarkan,0,0,0,0,NONE
+min gerbang karatan di dekat halte sudah lama dibiarkan,0,0,1,0,KARATAN
+gaes tembok mau roboh karena retak juga pagar sudah karatan di kantin bahaya banget,0,0,1,1,"KARATAN,RETAKAN"
+kak plafon retak dan mengelupas di area parkir dosen sudah seminggu begini,0,0,0,1,RETAKAN
+woi railing tangga berkarat di gedung E tolong dicek ya,0,0,1,0,KARATAN
+"halo, kanopi berkarat dan keropos",0,0,1,0,KARATAN
+"mohon dicek, jadwal kuliah berubah di ruang kelas 3.2 tolong segera ditindaklanjuti",0,0,0,0,NONE
+woi kursi kurang untuk peserta seminar di koridor gedung C sudah seminggu begini,0,0,0,0,NONE
+"mohon dicek, retakan dii lantai makin melebar di sini parah banget",0,0,0,1,RETAKAN
+"permisi, di samping laboratorium lantai retak juga lubang di aspal makin besar tolong dicek ya",0,1,0,1,"LUBANG,RETAKAN"
+"permisi, tembok rusak dan retak parah banget",0,0,0,1,RETAKAN
+kak di belakang masjid kampus dinding retak-retak mohon segera dibersihkan,0,0,0,1,RETAKAN
+"halo, kursi besi karatan di area kampus",0,0,1,0,KARATAN
+"mohon dicek, di belakang masjid kampus bangku besi banyak karat, jalannya berlubang parah sudah seminggu begini",0,1,1,0,"LUBANG,KARATAN"
+woi sampah daun dan plastik menumpuk disini bahaya banget,1,0,0,0,SAMPAH
+"halo, banyak sampah berserakan di dekat halte makasih",1,0,0,0,SAMPAH
+kursi besi karatan di lorong fakultas teknik makasih,0,0,1,0,KARATAN
+info: di kantin lubang di aspal makin besar sudah lama dibiarkan,0,1,0,0,LUBANG
+"permisi, ada lubang yang tergenang air saat hujan sudah lama dibiarkan",0,1,0,0,LUBANG
+woi di halaman gedung D paving block amblas membentuk lubang sudah lama dibiarkan,0,1,0,0,LUBANG
+ada lubang makasih,0,1,0,0,LUBANG
+cuaca hujan deras di jalan menuju rektorat mengganggu banget,0,0,0,0,NONE
+kak kantin ramai saat istirahat di parkiran motor makasih,0,0,0,0,NONE
+kak sampah plastik bertebaran di area kampus mohon segera dibersihkan,1,0,0,0,SAMPAH
+woi besi penyangga sudah berkarat di samping laboratorium udah lama ga diperbaiki,0,0,1,0,KARATAN
+"halo, kanopi berkarat dan keropos serta aspal jebol mohon segera dibersihkan",0,1,1,0,"LUBANG,KARATAN"
+gaes meja berkarat di sekitar kantin sudah semnggu begini,0,0,1,0,KARATAN
+"halo, di dekat halte sampah kertas berhamburan mengganggu banget",1,0,0,0,SAMPAH
+"permisi, ada kantong kresek berisi sampah di lantai 2 gedung C bahaya banget",1,0,0,0,SAMPAH
+pak botol bekas minuman dibiarkan di sekitar asrama,1,0,0,0,SAMPAH
+kak di sebelah gedung a paving block amblas membentuk lubang,0,1,0,0,LUBANG
+"tolong perbaiki, di jalan belakang kampus kucing berkeliaran sudah lama dibiarkan",0,0,0,0,NONE
+"mohon dicek, bnayak lubang kecil di jalan tolong segera ditindaklanjuti",0,1,0,0,LUBANG
+di lorong fakultas teknik dinding retak parah,0,0,0,1,RETAKAN
+"mohon dicek, ada lubang besar di jalan di samping laboartorium",0,1,0,0,LUBANG
+info: AC ruang kelas tidak dingin di sekitar asrama sudah lama dibiarkan,0,0,0,0,NONE
+"tolong perbaiki, dekat toilet sampah plastik bertebaran tolong dicek ya",1,0,0,0,SAMPAH
+tiang besi berkarat di dekat gerbang utama tolong segera ditindaklanjuti,0,0,1,0,KARATAN
+di ruang kelas 3.2 AC ruang kelas tidak dingin sudah lama dibiarkan,0,0,0,0,NONE
+"halo, sampah belum diangkut berhari-hari di jalan belakang kampus sudah seimnggu begini",1,0,0,0,SAMPAH
+info: ada lubang besar di jalan di depan gedung A makasih,0,1,0,0,LUBANG
+min lubang di jalan membahayakan pengendara motor di lantai 2 gedung C sudah seminggu begini,0,1,0,0,LUBANG
+woi aspal bolong di dekat lapangan futsal mengganggu banget,0,1,0,0,LUBANG
+jalan rusak banyak lubang di lapangan basket sudah seminggu begini,0,1,0,0,LUBANG
+di area parkir dosen jalan bolong-bolong,0,1,0,0,LUBANG
+ada lubang di sekitar kantin sudah seminggu begini,0,1,0,0,LUBANG
+min bungkus makanan dibuang sembarangan di gedung E bahaya banget,1,0,0,0,SAMPAH
+pak lampu jalan redup di sebelah gedung B sudah seminggu begini,0,0,0,0,NONE
+gaes lantai retak di lorong fakultas teknik sudah seminggu begini,0,0,0,1,RETAKAN
+gaes di taman kampus kotor banyak sampah,1,0,0,0,SAMPAH
+woi botol bekas minuman dibiarkan di sekitar asrama parah banget,1,0,0,0,SAMPAH
+"permisi, aspal terkelupas dan berlubang terus puntung rokok berserakan serta tembok rusak di depan gedung A mohon segera dibersihkan",1,1,0,1,"SAMPAH,LUBANG,RETAKAN"
+"halo, parkiran penuh tolong dicek ya",0,0,0,0,NONE
+"halo, keramik pecah dan retak dan aspal terkelupas dan berlubang dan sampah belum diangkut berhari-hari di area kampus",1,1,0,1,"SAMPAH,LUBANG,RETAKAN"
+pagar besi berkarat serta ada lubang disiini,0,1,1,0,"LUBANG,KARATAN"
+kak pagar sudah karatan di dekat pos satpam sudah lama dibiarkan,0,0,1,0,KARATAN
+pak dekat perpustakaan banyak lubang kecil di jalan,0,1,0,0,LUBANG
+woi ruangan terlalu panas di parkiran motor makasih,0,0,0,0,NONE
+"lapor, di sebelah gedung B bangku besi banyak karat parah banget",0,0,1,0,KARATAN
+woi aspal bolong di belakang gedung B bahaya banget,0,1,0,0,LUBANG
+"gaes di sekitar kantin dinding retak-retak, lubang di jalan membahayakan pengendara motor sudah lama dibiarkan",0,1,0,1,"LUBANG,RETAKAN"
+"lapor, di koridor gedung C botol bekas minuman dibiarkan",1,0,0,0,SAMPAH
+"permisi, plafon retak dan mengelupas mengganggu banget",0,0,0,1,RETAKAN
+woi di sekitar asrama tiang besi berkarat sudah seminggu begini,0,0,1,0,KARATAN
+jalan rusak banyak lubang dekat toilet mengganggu banget,0,1,0,0,LUBANG
+"permisi, di taman kampus tembok pecah-pecah serta ada lubang mengganggu banget",0,1,0,1,"LUBANG,RETAKAN"
+"permisi, colokan listrik tidak berfungsi di lorong fakultas teknik sudah seminggu begini",0,0,0,0,NONE
+"lapor, aspal terkelupas dan berlubang di dekat halte mengganggu banget",0,1,0,0,LUBANG
+kak di dekat lapangan futsal tembok mau roboh karena retak mohon segera dibersihkan,0,0,0,1,RETAKAN
+gaes di dekat gerbang utama sampah plastik bertebaran terus tiang besi berkarat tolong dicek ya,1,0,1,0,"SAMPAH,KARATAN"
+"permisi, di dekat halte tembok rusak dan retak sudah lama dibiarkan",0,0,0,1,RETAKAN
+min dekat toilet banyak sampah tolong dicek ya,1,0,0,0,SAMPAH
+"mohon dicek, di dekat gerbang utama ada lubang parah banget",0,1,0,0,LUBANG
+kak teempat sampah penuh dan meluap terus tembok rusak di area parkir dosen,1,0,0,1,"SAMPAH,RETAKAN"
+"permisi, rak besi karatan dekat perpustakaan tlong dicek ya",0,0,1,0,KARATAN
+min kucing berkeliaran di kantin,0,0,0,0,NONE
+pak railing tangga berkarat mohon segera diberrsihkan,0,0,1,0,KARATAN
+"permisi, puntung rokok berserakn di dekat halte",1,0,0,0,SAMPAH
+woi meja karatan dekat perpustakaan parah banget,0,0,1,0,KARATAN
+"lapor, meja berkarat di taman kampus mengganggu banget",0,0,1,0,KARATAN
+kak jadwal kuliah berubah di lapangan basket makasih,0,0,0,0,NONE
+wifi lambat dekat toilet tolong segera ditindaklanjuti,0,0,0,0,NONE
+jalannya berlubang parah di sekitar kantin makasih,0,1,0,0,LUBANG
+tanah amblas jadi lubang di sebelah gedung B makasih,0,1,0,0,LUBANG
+"halo, engsel pint berkarat di taman kampus sudah lama dibiarkan",0,0,1,0,KARATAN
+retakan di lantai makin melebar di dekat lapangan futsal,0,0,0,1,RETAKAN
+"permisi, kantin ramai saat istirahat parah banget",0,0,0,0,NONE
+sampah dibiarkan membusuk tolong dicek ya,1,0,0,0,SAMPAH
+woi tiang lampu berkarat di belakang gedung B bahaya banget,0,0,1,0,KARATAN
+"halo, di jalan mnuju rektorat sampah menumpuk tolong dicek ya",1,0,0,0,SAMPAH
+meja karatan makasih,0,0,1,0,KARATAN
+pak sampah menumpuk serta engsel pintu berkarat di belakang gedung B sudah lama dibiarkan,1,0,1,0,"SAMPAH,KARATAN"
+pak adda kantong kresek berisi sampah di taman kampus,1,0,0,0,SAMPAH
+"tolong perbaiki, railing tangga berkarat di belakang gedung b",0,0,1,0,KARATAN
+"permisi, sampah menyumbat selokan disini tolong segera ditindaklanjuti",1,0,0,0,SAMPAH
+tumpukan sampah menggunung di belakang gedung B,1,0,0,0,SAMPAH
+"permisi, railing tangga berkarat di belakang gedung B tolong dicek ya",0,0,1,0,KARATAN
+"halo, dekat perpustakaan jendela kotor berdebu tolong dicek ya",0,0,0,0,NONE
+di taman kampus dinding gedung retak memanjang serta banyak sampah,1,0,0,1,"SAMPAH,RETAKAN"
+jalan bolong-bolong di lapangan basket tolong segera ditindaklanjuti,0,1,0,0,LUBANG
+"banyak sampah, pagar besi berkarat juga jalan berlubang dalam sudah seminggu begini",1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+sampah plastik bertebaran bahaya banget,1,0,0,0,SAMPAH
+"tolong perbaiki, di sebelah gedung A taman terlihat asri tolong dicek ya",0,0,0,0,NONE
+di dekat pos satpam aspal bolong,0,1,0,0,LUBANG
+ada lubang di ruang kelas 3.2,0,1,0,0,LUBANG
+"tolong perbaiki, ada lubang di jalan belakang kampus bahaya banget",0,1,0,0,LUBANG
+gaes tembok mau roboh karena retak di lantai 2 gedung C makasih,0,0,0,1,RETAKAN
+"halo, bau sampah menyengat di parkiran motor tolong segera ditindaklanjuti",1,0,0,0,SAMPAH
+gaes sampah menyumbat selokan di halaman gedung D sudah semingg begini,1,0,0,0,SAMPAH
+gaes kran air bocor makasih,0,0,0,0,NONE
+"lapor, tanah amblas jadi lubang di depan aula mengganggu banget",0,1,0,0,LUBANG
+"tolong perbaiki, tiang bangunan retak udah lama ga diperbaiki",0,0,0,1,RETAKAN
+gaes di jalan belakang kampus cat dinding mengelupas dan retak sudah lama dibiarkan,0,0,0,1,RETAKAN
+"besi penyangga sudah berkarat, selain itu jalannya berlubang parah, retakan di lantai makin melebar di belakang gedung B bahaya banget",0,1,1,1,"LUBANG,KARATAN,RETAKAN"
+min di sebelah gedung A taman terlihat asri,0,0,0,0,NONE
+"permisi, di samping laboratorium rak besi karatan makasih",0,0,1,0,KARATAN
+pak kanopi berkarat dan keropos udah lama ga diperbaiki,0,0,1,0,KARATAN
+"tolong perbaiki, disini kursi kurang untuk peserta seminar udah lama ga diperbaiki",0,0,0,0,NONE
+kran air bocor dekat toilet mengganggu banget,0,0,0,0,NONE
+banyak sampah di depan gedung a sudah semnggu begini,1,0,0,0,SAMPAH
+"mohon dicek, di fakultas ekonomi tong sampah tidak muat lagi terus jalannya berlubang parah tolong dicek ya",1,1,0,0,"SAMPAH,LUBANG"
+"permisi, kursi besi karatan",0,0,1,0,KARATAN
+"tolong perbaiki, di area parkir dosen lampu koridor mati tolong dicek ya",0,0,0,0,NONE
+kak meja karatan dan tembok pagar retak disini tolong dicek ya,0,0,1,1,"KARATAN,RETAKAN"
+"permisi, bangku besi banyak karat serta lubang di aspal makin besar juga tumpukan sampah menggunung di koridor gedung C sudah seminggu begini",1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+"lapor, lubang di jalan membahayakan pengendara motor dan bungkus makanan dibuang sembarangan di halaman gedung d sudah seminggu begini",1,1,0,0,"SAMPAH,LUBANG"
+"mohon dicek, di jalan menuju rektorat sampah dibiarkan membusuk makasih",1,0,0,0,SAMPAH
+kursi besi karatan di sekitar asrama,0,0,1,0,KARATAN
+di sebelah gedung B sampah kertas berhamburan tolong dicek ya,1,0,0,0,SAMPAH
+pak di taman kampus kantin ramai saat istirahat,0,0,0,0,NONE
+min jadwal kuliah berubah udah lama ga diperbaiki,0,0,0,0,NONE
+besi penyangga sudah berkarat di gedung e makasih,0,0,1,0,KARATAN
+"permisi, dinding retak parah di depan aula makasih",0,0,0,1,RETAKAN
+min ada lubang besar di jalan di sini mohon segera dibersihkan,0,1,0,0,LUBANG
+ada lubang besar di jalan di gedung E mengganggu banget,0,1,0,0,LUBANG
+"permisi, di koridor gedung C jendela kotor berdebu",0,0,0,0,NONE
+"lapor, di dekat gerbang utama tembok mau roboh karena retak mohon segera dibersihkan",0,0,0,1,RETAKAN
+lubang menganga di trotoar serta tong sampah tidak muat lagi,1,1,0,0,"SAMPAH,LUBANG"
+"tolong perbaiki, di lorong fakultas teknik puntung rokok berserakan sudah lama dibiarkan",1,0,0,0,SAMPAH
+"botol bekas minuman dibiarkan, selain itu railing tangga berkarat",1,0,1,0,"SAMPAH,KARATAN"
+woi banyak lubang kecil di jalan terus rak besi karatan di jalan belakang kampus,0,1,1,0,"LUBANG,KARATAN"
+jadwal kuliah berubah di dekat gerbang utama sudah lama dibiarkan,0,0,0,0,NONE
+"lapor, di fakultas ekonomi puntung rokok berserakan mohon segera dibersihkan",1,0,0,0,SAMPAH
+info: ada lubang besar di jalan di sekitar kantin parah banget,0,1,0,0,LUBANG
+"lapor, di sekitar kantin ada retakan di temok parah banget",0,0,0,1,RETAKAN
+info: tiang besi berkarat di dekat kolam kampus,0,0,1,0,KARATAN
+"lapor, disini dinding gedung retak memanjang parah banget",0,0,0,1,RETAKAN
+"aspal terkelupas dan berlubang, rak besi karatan di dekat gerbang utama",0,1,1,0,"LUBANG,KARATAN"
+gaes di taman kampus sampah daun dan plastik menumpuk,1,0,0,0,SAMPAH
+"mohon dicek, sampah belum diangkut berhari-hari di sini makasih",1,0,0,0,SAMPAH
+di deekat halte tiang bangunan retak tolong segera ditindaklanjuti,0,0,0,1,RETAKAN
+gaes ada lubang di belakang gedung B,0,1,0,0,LUBANG
+"halo, retakan di lantai makin melebar dekat toilet udah lama ga diperbaiki",0,0,0,1,RETAKAN
+di area kampus botol bekas minuman dibiarkan parah banget,1,0,0,0,SAMPAH
+woi rangka atap berkarat parah di dekat lapangan futsal,0,0,1,0,KARATAN
+tembok pecah-pecah di ruang kelas 3.2 tolong dicek ya,0,0,0,1,RETAKAN
+"lapor, banyak lubang kecil di jalan udah lama ga diperbaiki",0,1,0,0,LUBANG
+proyektor tidak menyala di sebelah gedung A parah banget,0,0,0,0,NONE
+lift sering macet di kantin mengganggu banget,0,0,0,0,NONE
+min di sebelah gedung B tembok mau roboh karena retak,0,0,0,1,RETAKAN
+"lapor, colokan listrik tidak berfungsi di area  parkir dosen",0,0,0,0,NONE
+"mohon dicek, di dekat lapangan futsal plafon retak dan mengelupsa mohon segera dibersihkan",0,0,0,1,RETAKAN
+"mohon dicek, gerbang karatan di sebelah gedung A mengganggu banget",0,0,1,0,KARATAN
+di depan aula kanopi berkarat dan keropos,0,0,1,0,KARATAN
+"tolong perbaiki, di area kampus jalan rusak banyak lubang mohon segera dibersihkan",0,1,0,0,LUBANG
+di sekitar asrama tiang bangunan retak tolong dicek ya,0,0,0,1,RETAKAN
+woi jendela kotor berdebu di parkiran motor bahaya banget,0,0,0,0,NONE
+gase pintu susah dibuka di belakang masjid kampus,0,0,0,0,NONE
+"tolong perbaiki, bangku besi banyak karat di ruang kelas 3.2",0,0,1,0,KARATAN
+gaes kelasnya nyaman dan bersih di fakultas ekonomi parah banget,0,0,0,0,NONE
+info: meja karatan dan tumpukan sampah menggunung di dekat pos satpam tolong dicek ya,1,0,1,0,"SAMPAH,KARATAN"
+min engsel pintu berkarat juga jalan rusak banyak lubang di area parkir dosen sudah seminggu begini,0,1,1,0,"LUBANG,KARATAN"
+dinding gedung retak memanjang dekat toilet udah lama ga diperbaiki,0,0,0,1,RETAKAN
+min meja karatan di koridor gedung C bahaya banget,0,0,1,0,KARATAN
+sampah kertas berhamburan di ruang kelas 3.2,1,0,0,0,SAMPAH
+min di ruang kelas 3.2 jalannya berlubang parah tolong segera ditindaklanjuti,0,1,0,0,LUBANG
+tanah amblas jadi lubbang di sebelah gedung b makasih,0,1,0,0,LUBANG
+besi penyangga sudah berkarat di dekat halte,0,0,1,0,KARATAN
+gaees lantai retak di lantai 2 gedung c tolong dicek ya,0,0,0,1,RETAKAN
+"permisi, colokan listrikt idak berfungsi di samping laboratorium sudah seminggu begini",0,0,0,0,NONE
+gaes di dekat lapangan futsal cat dinding mengelupas dan retak,0,0,0,1,RETAKAN
+"permisi, aspal bolong udah lama ga diperbaiki",0,1,0,0,LUBANG
+woi di belakang masjid kampus jalan bolong-bolong,0,1,0,0,LUBANG
+di dekat kolam kampus aspal terkelupas dan berlubang,0,1,0,0,LUBANG
+"tolong perbaiki, di dekat gerbang utama paving block amblas membentuk lubang udah lama ga diperbaiki",0,1,0,0,LUBANG
+pak aspal jebol dekat peerpustakaan mengganggu banget,0,1,0,0,LUBANG
+kak disini jalan berlubang dalam juga tembok rusak dan retak,0,1,0,1,"LUBANG,RETAKAN"
+min tiang lampu berkarat di jalan menuju rektorat mohon segera dibersihkan,0,0,1,0,KARATAN
+lubang di jalan membahayakan pengendara motor di sekitar kantin,0,1,0,0,LUBANG
+"mohon dicek, aspal jebol dekat perpustakaan sudah lama dibiarkan",0,1,0,0,LUBANG
+"halo, bau sampah menyengat di dekat lapangan futsal",1,0,0,0,SAMPAH
+"mohon dicek, engsel pintu berkarat dibelakang gedung B makasih",0,0,1,0,KARATAN
+gaes puntung rokok berserakan di dekat pos satpam sudah seminggu begini,1,0,0,0,SAMPAH
+woi meja berkarat,0,0,1,0,KARATAN
+gaes di sekitar asrama paing block amblas membentuk lubang mohon segera dibersihkan,0,1,0,0,LUBANG
+info: dinding gedung retak memanjang di dekat kolam kampus,0,0,0,1,RETAKAN
+"puntung rokok berserakan, selain itu tiang lampu berkarat, selain itu lubang menganga di trotoar di jalan belakang kampus sudah seminggu begini",1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+info: aspal bolong mohon segera dibersihkan,0,1,0,0,LUBANG
+kak tanah amblas jadi lubang,0,1,0,0,LUBANG
+kak di dekat halte meja berkarat mohon segera dibersihkan,0,0,1,0,KARATAN
+woi railing tangga berkarat di parkiran motor,0,0,1,0,KARATAN
+"woi di samping laboratorium sampah plastik bertebaran, retakan di lantai makin melebar tolong dicek ya",1,0,0,1,"SAMPAH,RETAKAN"
+info: lubang di jalan membahayakan pengendara motor di sekitar asrama,0,1,0,0,LUBANG
+"tolong perbaiki, jendela kotor berdebu tolong segera ditindaklanjuti",0,0,0,0,NONE
+"mohon dicek, ada lubang besar di jalan di area kampus tolong dicek ya",0,1,0,0,LUBANG
+min sampah belum diangkut berhari-hari di sekitar asrama,1,0,0,0,SAMPAH
+pak dinding retak-retak di parkiran motor,0,0,0,1,RETAKAN
+"halo, jalan bolong-bolong di gedung e",0,1,0,0,LUBANG
+lantai beton retak terus pagar besi berkarat disini makasih,0,0,1,1,"KARATAN,RETAKAN"
+banyak sampah makanan di gedung e,1,0,0,0,SAMPAH
+"permisi, jalan rusak banyak lubang di jalan menuju rektorat",0,1,0,0,LUBANG
+info: tempat sampah penuh dan meluap di sini sudah seminggu begini,1,0,0,0,SAMPAH
+info: keran air berkarat tolong segera ditindaklanjuti,0,0,1,0,KARATAN
+plafon retak dan mengelupas juga tanah amblas jadi lubang di depan aula parah banget,0,1,0,1,"LUBANG,RETAKAN"
+"tolong perbaiki, aspal terkelupas dan berlubang serta tembok rusak dan retak di parkiran motor makasih",0,1,0,1,"LUBANG,RETAKAN"
+"tolong perbaiki, kantin ramai saat istirahat di samping laboratorium mohon segera dibersihkan",0,0,0,0,NONE
+"halo, di sekitar kantin tanah amblas jadi lubang",0,1,0,0,LUBANG
+pak di fakultas ekonomi lantai beton retak sudah lama dibiarkan,0,0,0,1,RETAKAN
+gaes tong sampah tidak muat lagi di lorong fakultas teknik mohon segera dibershkan,1,0,0,0,SAMPAH
+sampah daun dan plastik menumpuk tolong dicek ya,1,0,0,0,SAMPAH
+pak jalan rusak banyak lubang di lapangan basket sudah seminggu begini,0,1,0,0,LUBANG
+"mohon dicek, rak besi karatan di fakultas ekonomi",0,0,1,0,KARATAN
+woi banyak mahasiswa berkumpul did ekat gerbang utama parah banget,0,0,0,0,NONE
+gaes lampu jalan redup tolon gdicek ya,0,0,0,0,NONE
+info: di ruang kelas 3.2 kantin ramai saat istirahat mengganggu banget,0,0,0,0,NONE
+"halo, lantai beton retak di belakang masjid kampus",0,0,0,1,RETAKAN
+keramik pecah dan retak di area parkir dosen sudah lama dibiarkan,0,0,0,1,RETAKAN
+pak lantai retak di lorong fakultas teknik sudah lama dibiarkan,0,0,0,1,RETAKAN
+kak di dekat lapangan futsal lubang di jalan membahayakan pengendara motor juga tembok retak serta pagar besi berkarat tolong segera ditindaklanjuti,0,1,1,1,"LUBANG,KARATAN,RETAKAN"
+disini aspal bolong serta sampah dibiarkan membusuk mengganggu banget,1,1,0,0,"SAMPAH,LUBANG"
+"permisi, retakan di lantai makin melebar di area parkir dosen parah banget",0,0,0,1,RETAKAN
+min engsel pintu berkarat di sekitar kantin sudah lama dibiarkan,0,0,1,0,KARATAN
+"permisi, parkiran penuh di dekat kolam kampus sudah seminggu begini",0,0,0,0,NONE
+dinding gedung retak memanjang di depan aula udah lama ga diperbaiki,0,0,0,1,RETAKAN
+lubang di aspal makin besar di dekat lapangan futsal sudah lama dibiarkan,0,1,0,0,LUBANG
+di jalan belakang kampus bungkus makanan dibuang sembarangan serta tembok rusak terus gerbang karatan,1,0,1,1,"SAMPAH,KARATAN,RETAKAN"
+"halo, di depan gedung A banyak sampah makanan, meja karatan, selain itu aspal jebol makasih",1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+min railing tangga berkarat di sekitar asrama sudah lama dibiarkan,0,0,1,0,KARATAN
+di sini meja karatan juga tembok rusak mengganggu banget,0,0,1,1,"KARATAN,RETAKAN"
+"mohon dicek, dekat toilet papan tulis sulit dibaca parah banget",0,0,0,0,NONE
+"halo, tembok rusak di parkiran motor tolong segera ditindaklanjuti",0,0,0,1,RETAKAN
+"lapor, cat dinding mengelupas dan retak terus sampah plastik bertebaran, besi penyangga sudah berkarat di sekitar kantin sudah seminggu begini",1,0,1,1,"SAMPAH,KARATAN,RETAKAN"
+"mohon dicek, retakan di lantai makin melebar di lorong fakultas teknik parah banget",0,0,0,1,RETAKAN
+min tempat sampah penuh dan meluap di sebelah gedung a,1,0,0,0,SAMPAH
+"halo, banyak sampah berserakan di koridor gedung C makasih",1,0,0,0,SAMPAH
+"permisi, di sebelah gedung A aspal terkelupas dan berlubang parah banget",0,1,0,0,LUBANG
+pak pohon tumbang dekat toilet makasih,0,0,0,0,NONE
+gaes dinding retak parah di dekat kolam kampus sudah lama dibiarkan,0,0,0,1,RETAKAN
+kak botol bekas minuman dibiarkan di koridor gedung C udah lama ga diperbaiki,1,0,0,0,SAMPAH
+"halo, lantai beton retak, selain itu pintu besi penuh karat di koridor gedung C",0,0,1,1,"KARATAN,RETAKAN"
+woi bungkus makanan dibuang sembarangan di taman kampus sudah lama dibiarkan,1,0,0,0,SAMPAH
+min tanah amblas jadi lubang juga dinding retak parah di fakultas eonomi tolong segera ditindaklanjuti,0,1,0,1,"LUBANG,RETAKAN"
+"tolong perbaiki, cuaca hujan deras",0,0,0,0,NONE
+pak kran air bocor tolong segera ditindaklanjuti,0,0,0,0,NONE
+jalanan berlubang di halaman gedung d sudah seminggu begini,0,1,0,0,LUBANG
+kak cuaca hujan deras di sini,0,0,0,0,NONE
+"mohon dicek, lubang di jalan membahayakan pengenara motor di sekitar kantin",0,1,0,0,LUBANG
+"permisi, jalan bolong-bolong di parkiran motor",0,1,0,0,LUBANG
+info: dekat toilet lantai retak,0,0,0,1,RETAKAN
+pak dinding retak parah terus meja karatan di koridor gedung C,0,0,1,1,"KARATAN,RETAKAN"
+di belakang masjid kampus sampah daun dan plastik menumpuk mohon segera dibersihkan,1,0,0,0,SAMPAH
+"permisi, tembok pagar retak, lubang menganga di trotoar mengganggu banget",0,1,0,1,"LUBANG,RETAKAN"
+"mohon dicek, tempat sampah penuh dan meluap mengganggu banget",1,0,0,0,SAMPAH
+"lapor, di lapangan  basket ada lubang besar di jalan udah lama ga diperbaiki",0,1,0,0,LUBANG
+pintu susah dibkua bahaya banget,0,0,0,0,NONE
+kursi besi  karatan dekat toilet bahaya banget,0,0,1,0,KARATAN
+kak banyak sampah berserakan di lapangan basket tolong dicek ya,1,0,0,0,SAMPAH
+"mohon dicek, aspal jebol dekat toilet udah lama ga diperbaiki",0,1,0,0,LUBANG
+sampah belum diangkut berhari-hari,1,0,0,0,SAMPAH
+"tolong perbaiki, dinding retak parah di area parkir dosen",0,0,0,1,RETAKAN
+"tolong perbaiki, dindin gedung retak memanjang di jalan menuju rektorat tolong segera ditindaklanjuti",0,0,0,1,RETAKAN
+"lapor, pagar besi berkarat di ruang kelas 3.2",0,0,1,0,KARATAN
+"mohon dicek, rak besi karata di depan gedung A",0,0,1,0,KARATAN
+di depan gedung a sampah plastik betebaran,1,0,0,0,SAMPAH
+kak ada kantong kresek berisi sampah di area kampus,1,0,0,0,SAMPAH
+"lapor, ada lubang yang tergenang air saat hujan di kantin",0,1,0,0,LUBANG
+kanopi berkarat dan keropos di fakultas ekonomi,0,0,1,0,KARATAN
+"mohon dicek, di dekat lapangan futsal jalan bberlubang dalam parah banget",0,1,0,0,LUBANG
+min jalan berlubang dalam udah lama ga diperbaiki,0,1,0,0,LUBANG
+info: dinding retak parah di belakang masjid kampus parah banget,0,0,0,1,RETAKAN
+dinding gedung retak memanjang di samping laboratorium mengganggu banget,0,0,0,1,RETAKAN
+"lapor, di dekat kolam kampus tembok pecah-pecah bhaya banget",0,0,0,1,RETAKAN
+pak jalan  bolong-bolong di lapangan basket bahaya banget,0,1,0,0,LUBANG
+woi aspal terkelupas dan berlubang di sebelah gedung b,0,1,0,0,LUBANG
+gaes sampah daun dan plastik menumpuk di dekat lapangan futsal mengganggu banget,1,0,0,0,SAMPAH
+"tolong perbaiki, pagar sudah karatan di dekat halte",0,0,1,0,KARATAN
+"tolong perbaiki, kursi kurang untuk peserta seminar di jalan menuju rektorat sudah lama dibiarkan",0,0,0,0,NONE
+pak aspal bolong disini udah lama ga diperbaiki,0,1,0,0,LUBANG
+"tolong perbaiki, ada lubang besar di jalan di dekat gerbang utama",0,1,0,0,LUBANG
+"tolong perbaiki, cat dinding mengelupas dan retak di gedung E",0,0,0,1,RETAKAN
+"lapor, di belakang masjid kampus colokan listrik tidak berfungsi",0,0,0,0,NONE
+"tolong perbaiki, lubang di jalan membahayakan pengendarra motor di gedung E",0,1,0,0,LUBANG
+min kanopi berkarat dan keropos di koridor gedung C,0,0,1,0,KARATAN
+pak tembok mau roboh karena retak di arae kampus,0,0,0,1,RETAKAN
+"lapor, kotor banyak sampah, selain itu tembok mau roboh karena retak di sini",1,0,0,1,"SAMPAH,RETAKAN"
+"mohon dicek, banyak sampah makanan di fakultas ekonomi",1,0,0,0,SAMPAH
+"tiang bangunan retak juga tiang lampu berkarat, selain itu banyak sampah di samping laboratorium sudah lama dibiarkan",1,0,1,1,"SAMPAH,KARATAN,RETAKAN"
+tembok mau roboh karena retak di sebelah gedung a mohon segera dibersihkan,0,0,0,1,RETAKAN
+woi lantai retak di lorong fakultas teknik sudah seminggu begini,0,0,0,1,RETAKAN
+"halo, meeja berkarat dekat toilet parah banget",0,0,1,0,KARATAN
+pak di dekat kolam kampus papan tulis sulit dibaca parah banget,0,0,0,0,NONE
+jadwal kuliah berubah di taman kampus tolong segera ditindaklanjuti,0,0,0,0,NONE
+lampu koridor mati disini tolong segera ditindaklanjuti,0,0,0,0,NONE
+tiang lampu berkarat di jalan belakang kampus,0,0,1,0,KARATAN
+"lapor, air toilet tidak mengalir di dekat lapangan futsal mohon segera dibersihkan",0,0,0,0,NONE
+gaes colokan listrik tidak berfungsi,0,0,0,0,NONE
+info: di dekat halte sampah belum diangkut berhari-hari tolong dicek ya,1,0,0,0,SAMPAH
+gaes dinding retak parah parah banget,0,0,0,1,RETAKAN
+pak gerbang karatan di ruang kelas 3.2 mohon segera dibersihkan,0,0,1,0,KARATAN
+woi sampah daun dan plastik menumpuk di dekat halte bahaya banget,1,0,0,0,SAMPAH
+tembok pecah-pecah di taman kampus tolong segera ditindaklanjuti,0,0,0,1,RETAKAN
+pintu besi penuh karat di gedung e udah lama ga diperbaiki,0,0,1,0,KARATAN
+min di area parkir dosen puntung rokok berserakan sudah seminggu begini,1,0,0,0,SAMPAH
+"permisi, sampah menyumbat selokan juga dinding retak parah dan lubang di jalan membahayakan pengendara motor di dekat gerbang utama",1,1,0,1,"SAMPAH,LUBANG,RETAKAN"
+kak sampah dibiarkan membusuk terus jalanan berlubang di sekitar kantin sudah seminggu begini,1,1,0,0,"SAMPAH,LUBANG"
+di dekat lapangan futsal aspal bolong,0,1,0,0,LUBANG
+"permisi, lubang di jalan membahayakan pengendara motor di halaman gedung d",0,1,0,0,LUBANG
+kran air bocor di ruang kelas 3.2 mengganggu banget,0,0,0,0,NONE
+gaes kelasnya nyaman dan bersih di fakultas ekonomi,0,0,0,0,NONE
+pak sampah plastik bertebaran di halaman gedung d mohon segera dibersihkan,1,0,0,0,SAMPAH
+kak sampah daun dan plastik menumpuk di lorong fakultas teknik,1,0,0,0,SAMPAH
+"mohon dicek, di dekat pos satpam aa kantong kresek berisi sampah mengganggu banget",1,0,0,0,SAMPAH
+pak lantai beton retak,0,0,0,1,RETAKAN
+retakan di lantai makin melebar di lorong fakultas teknik,0,0,0,1,RETAKAN
+jalan berlubang dalam di lapangan basket udah lama ga diperbaiki,0,1,0,0,LUBANG
+info: besi penyangga sudah berkarat di jalan belakang kampus mohon segera dibersihkan,0,0,1,0,KARATAN
+di fakultas ekonomi lubang di jalan membahayakan pengendara motor mengganggu banget,0,1,0,0,LUBANG
+pak di samping laboratorium ada lubang yang tergenang air saat hujan,0,1,0,0,LUBANG
+aspal terkelupas dan berlubagn serta botol bekas minuman dibiarkan di dekat gerbang utama,1,1,0,0,"SAMPAH,LUBANG"
+gaes cuaca hujan deras dekat perpustakaan,0,0,0,0,NONE
+"halo, bangku besi banyak karat di dekat lapangan futsal makasih",0,0,1,0,KARATAN
+tangga besi karatan di sekitar kantin mohon segera dibersihkan,0,0,1,0,KARATAN
+"lapor, sampah dibiarkan membusuk di sebelah gedung B tolong segera ditindaklanjuti",1,0,0,0,SAMPAH
+kak ada lubang di trotoar,0,1,0,0,LUBANG
+tong sampah tidak muat lagi sudah lama dibiarkan,1,0,0,0,SAMPAH
+info: tembok retak sudah lama dibiarkan,0,0,0,1,RETAKAN
+"permisi, di belakang masjid kampus tiang besi berkarat",0,0,1,0,KARATAN
+"tiang bangunan retak, besi penyangga sudah berkarat di dekat halte parah banget",0,0,1,1,"KARATAN,RETAKAN"
+pak aspal jebol mengganggu banget,0,1,0,0,LUBANG
+meja karatan bahaya banget,0,0,1,0,KARATAN
+"lapor, tiang bangunan retak",0,0,0,1,RETAKAN
+pak jalannya berlubang parah di fakultas ekonomi sudah seminggu begini,0,1,0,0,LUBANG
+"halo, tembok rusak dan retak di koridor gedung C",0,0,0,1,RETAKAN
+plafon retak dan mengelupas terus banyak sampah makanan terus pagar besi berkarat di dekat gerbang utama,1,0,1,1,"SAMPAH,KARATAN,RETAKAN"
+ada lubang besar di jalan serta rak bes karatan,0,1,1,0,"LUBANG,KARATAN"
+woi di area parkir dosen pagar sudah karatan dan sampah menyumbat selokan,1,0,1,0,"SAMPAH,KARATAN"
+"mohon dicek, puntung rokok berserakan udah lama ga diperbaiki",1,0,0,0,SAMPAH
+aspal terkelupas dan berlubang di sekitar asrama sudah lama dibiarkan,0,1,0,0,LUBANG
+pak di jalan menuju rektorat tembok pagar retak bahaya banget,0,0,0,1,RETAKAN
+gaes tong sampah tidak muat lagi di dekat lapangan futsa sudah seminggu begini,1,0,0,0,SAMPAH
+ada kantong kresek berisi sampah di fakultas ekonomi,1,0,0,0,SAMPAH
+gaes rangka atap berkarat parah di fakultas ekonomi tolong segera ditindaklanjuti,0,0,1,0,KARATAN
+"mohon dicek, aspal terkelupas dan berlubang di depan gedung A",0,1,0,0,LUBANG
+"halo, kucing berkeliaran di parkiran motor tolongdicek ya",0,0,0,0,NONE
+dekat toilet tembok pecah-pecah udah lama ga  diperbaiki,0,0,0,1,RETAKAN
+"permisi, di taman kampus lubang di jalan membahayakan pengendara motor sudah seminggu begini",0,1,0,0,LUBANG
+cat dinding mengelupas dan retak di taman kampus parah banget,0,0,0,1,RETAKAN
+min tembok mau roboh karena retak makasih,0,0,0,1,RETAKAN
+"permisi, aspal jebol tolong segera ditindaklanjuti",0,1,0,0,LUBANG
+ada kantong kresek berisi sampah di lorong fakultas teknik sudah seminggu begini,1,0,0,0,SAMPAH
+"mohon dicek, pintu susah dibuka sudah lama dibiarkan",0,0,0,0,NONE
+info: botol bekas minuman dibiarkan di depan gedung A sudah lama dibiarkan,1,0,0,0,SAMPAH
+"mohon dicek, sampah dibiarkan membusuk di sekitar kantin parah banget",1,0,0,0,SAMPAH
+info: jalannya berlubang parah di depan gedung A mengganggu banget,0,1,0,0,LUBANG
+kak pintu besi penuh karat di dekat kolam kampus,0,0,1,0,KARATAN
+min di halaman gedung d ada lubang besar di jalan mohon segera dibersihkan,0,1,0,0,LUBANG
+"lapor, kursi besi karatan, selain itu tembok pagar retak serta sampah menumpuk tolongg segera ditindaklanjuti",1,0,1,1,"SAMPAH,KARATAN,RETAKAN"
+"halo, tong sampah tidak muat lagi parah banget",1,0,0,0,SAMPAH
+jalanan berlubang serta gerbang karatan di jalan belakang kampus mohon segera dibersihkan,0,1,1,0,"LUBANG,KARATAN"
+"mohon dicek, di depan aula dinding retak parah tolong dicek ya",0,0,0,1,RETAKAN
+meja karatan di kantin udah lama ga diperbaiki,0,0,1,0,KARATAN
+"kak ada lubang, cat dinding mengeelupas dan retak, sampah dibiarkan membusuk di kantin mengganggu banget",1,1,0,1,"SAMPAH,LUBANG,RETAKAN"
+"sampah menyumbat selokan, selain itu aspal jebol terus tembok rusak dan retak di dekat pos satpam mengganggu banget",1,1,0,1,"SAMPAH,LUBANG,RETAKAN"
+lampu koridor mati sudah seminggu begini,0,0,0,0,NONE
+ada retakan di tembok di sebelah gedung A,0,0,0,1,RETAKAN
+"permisi, AC ruang kelas tidak dingin disini parah banget",0,0,0,0,NONE
+"lapor, jalannya berlubang parah di ruang kelas 3.2 tolong dicek ya",0,1,0,0,LUBANG
+parkiran enuh disini,0,0,0,0,NONE
+pak lubang menganga di trotoar terus banyak sampah berserakan makasih,1,1,0,0,"SAMPAH,LUBANG"
+di gedung E pagar sudah karatan,0,0,1,0,KARATAN
+"halo, jalan rusak banyak lubang serta tembok pagar retak di belakang masjid kampus sudah seminggu begini",0,1,0,1,"LUBANG,RETAKAN"
+"di taman kampus kotor banyak sampah, selain itu aspal jebol sudah seminggu begini",1,1,0,0,"SAMPAH,LUBANG"
+"halo, banyak lubang kecil di jalan makasih",0,1,0,0,LUBANG
+kotor banyak sampah terus tiang lampu berkarat di jalan menuju rektorat bahaya banget,1,0,1,0,"SAMPAH,KARATAN"
+info: di depan geduung A aspal jebol sudah lama dibiarkan,0,1,0,0,LUBANG
+info: lantai beton retak di sekitar asrama,0,0,0,1,RETAKAN
+"mohon dicek, keramik pecah dan retak di dekat pos satpam udah lama ga diperbaiki",0,0,0,1,RETAKAN
+pak di dekat lapangan futsal botol bekas minuman dibiarkan,1,0,0,0,SAMPAH
+bangku besi banyak karat di kantin sudah lama dibiarkan,0,0,1,0,KARATAN
+info: dinding gedung retak memanjang,0,0,0,1,RETAKAN
+pak jalannya berlubang parah di samping laboratorium parah banget,0,1,0,0,LUBANG
+woi retaakan di lantai makin melebar di sekitar asrama tolong segera ditindaklanjuti,0,0,0,1,RETAKAN
+"permisi, bungkus makanan dibuang sembarangan di jalan belakang kampus udah lama ga diperbaiki",1,0,0,0,SAMPAH
+"halo, cat dinding mengelupas dan retak mengganggu banget",0,0,0,1,RETAKAN
+kak cat dinding mengelupas dan retak di area kampus,0,0,0,1,RETAKAN
+"pa kada lubang besar di jalan, meja karatan di depan aula",0,1,1,0,"LUBANG,KARATAN"
+info: di lorong fakultas teknik jadwal kuliah berubah makasih,0,0,0,0,NONE
+"gaes di area kampus puntung rokok berserakan, aspal bolong sudah lama dibiarkan",1,1,0,0,"SAMPAH,LUBANG"
+info: tembok retak di sekitar asrama makasih,0,0,0,1,RETAKAN
+min aspal bolong di sekitar kantin,0,1,0,0,LUBANG
+pak kotor banyak sampah di dekat kolam kampus mohon segera dibersihkan,1,0,0,0,SAMPAH
+"halo, bau sampah menyengat di dekat gerbang utama",1,0,0,0,SAMPAH
+min banyak sampah makanan di sebelah gedung B tolong dicek ya,1,0,0,0,SAMPAH
+jalannya berlubang parah di lapangan basket bahaya banget,0,1,0,0,LUBANG
+"mohon dicek, keramik pecah dan retak terus tiang besi berkarat di lantai 2 gedung C parah banget",0,0,1,1,"KARATAN,RETAKAN"
+di lorong fakultas teknik sampah plastik bertebaran tolong segera ditindaklanjuti,1,0,0,0,SAMPAH
+"info: sampah kertas berhamburan, selain itu rangka atap berkarat parah di dekat lapangan futsal udah lama ga diperbaiki",1,0,1,0,"SAMPAH,KARATAN"
+"lapor, di belakang masjid kampus ada lubang besar di jalan, tiang bangunan retak",0,1,0,1,"LUBANG,RETAKAN"
+"mohon dicek, kelasnya nyaman dan bersih di dekat pos satpam",0,0,0,0,NONE
+"halo, ada lubang besar di jalan di sekitar asrama udah lama ga diperbaiki",0,1,0,0,LUBANG
+kak kanopi berkarat dan keropos di samping laboratorium tolong segera ditindaklanjuti,0,0,1,0,KARATAN
+bungkus makanan dibuang sembarangan terus pintu besi penuh karat di depan gedung A,1,0,1,0,"SAMPAH,KARATAN"
+"mohon dicek, di area kampus banyak sampah mohon segera dibersihkan",1,0,0,0,SAMPAH
+woi di koridor gedung C lubang menganga di trotoar,0,1,0,0,LUBANG
+kak sampah plastik bertebaran di sebelah gedung B,1,0,0,0,SAMPAH
+kak bau sampah menyengat juga rak besi karatan di sebelah gedung A,1,0,1,0,"SAMPAH,KARATAN"
+pak eja berkarat parah banget,0,0,1,0,KARATAN
+"halo, meja karatan di jalan menuju rektorat makasih",0,0,1,0,KARATAN
+"mohon dicek, tiang lampu erkarat di dekat pos satpam mengganggu banget",0,0,1,0,KARATAN
+"lapor, banyak mahasiswa berkumpul di dekat kolam kampus udah lama ga diperbaiki",0,0,0,0,NONE
+"halo, kotor banyak sampah sudah lama dibiarkan",1,0,0,0,SAMPAH
+info: di kantin pintu besi penuh karat tolong dicek ya,0,0,1,0,KARATAN
+"tolong perbaiki, cuaca hujan deras di kantin mohon segera dibersihkan",0,0,0,0,NONE
+"halo, wifi lambat di halaman gedung D makasih",0,0,0,0,NONE
+disini tangga besi karatan sudah lama dibiarkan,0,0,1,0,KARATAN
+"min rak besi karatan, ada lubang besar di jalan dan ada retakan di tembok di kantin",0,1,1,1,"LUBANG,KARATAN,RETAKAN"
+min jalannya berlubang parah mohon segera dibersihkan,0,1,0,0,LUBANG
+"lubang di jalan membahayakan pengendara motor, puntung rokok berserakan, keran air berkarat di kantin",1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+woi tiang besi berkarat di sekitar asrama mohon segera dibersihkan,0,0,1,0,KARATAN
+info: di depan gedung a gerbang karatan tolong segera ditindaklanjuti,0,0,1,0,KARATAN
+pak di area kampusa da kantong kresek berisi sampah tolong segera ditindaklanjuti,1,0,0,0,SAMPAH
+info: sampah kertas berhamburan di dekat pos satpam parah banget,1,0,0,0,SAMPAH
+"permisi, pagar besi berkarat di sekitar asrama",0,0,1,0,KARATAN
+"permisi, plafon retak dan mengelupas di belakang masjid kampus",0,0,0,1,RETAKAN
+info: kucing berkeliaran di sekitar kantin tolong segera ditindaklanjuti,0,0,0,0,NONE
+"permisi, di lantai 2 gedung C sampah dibiarkan membusuk mengganggu banget",1,0,0,0,SAMPAH
+min di depan aula tiang besi berkarat makasih,0,0,1,0,KARATAN
+"lapor, jalannya berlubang parah di sini tolong segera ditindaklanjuti",0,1,0,0,LUBANG
+woi di dekat kolam kampus paving block amblas membentuk lubang mohon segera dibersihkan,0,1,0,0,LUBANG
+"bungkus makanan dibuang sembarangan, selain itu tembok retak di dekat halte sudah seminggu begini",1,0,0,1,"SAMPAH,RETAKAN"
+di dekat pos satpam tembok retak,0,0,0,1,RETAKAN
+kak bau sampah menyengat di area parkir dosen mengganggu banget,1,0,0,0,SAMPAH
+dinding retak parah terus kanopi berkarat dan keropos di lorong fakultas teknik mengganggu banget,0,0,1,1,"KARATAN,RETAKAN"
+"lapor, di sebelah gedung B keramik pecah dan retak bahaya banget",0,0,0,1,RETAKAN
+info: sampah kertas berhamburan di lapangan basket tolong segera ditindaklanjuti,1,0,0,0,SAMPAH
+di sebelah gedung A sampah daun dan plastik menumpuk,1,0,0,0,SAMPAH
+"mohon dicek, di dekat kolam kampus keramik pecah dan retak, sampah belum diangku berhari-hari",1,0,0,1,"SAMPAH,RETAKAN"
+min kanopi berkarat dan keropos di belakang masjid kampus mohon segera dibersihkan,0,0,1,0,KARATAN
+"lapor, lubang menganga di trotoar di samping laboratorium makasih",0,1,0,0,LUBANG
+"permisi, wifi lambat di sini sudah lama dibiarkan",0,0,0,0,NONE
+tiang lampu berkarat di lapangan basket mohon segera dibersihkan,0,0,1,0,KARATAN
+kak dekat toilet jalan berlubang dalam,0,1,0,0,LUBANG
+info: di lorong fakultas teknik tiang besi berkarat tolong dicek ya,0,0,1,0,KARATAN
+"tolong perbaiki, di dekat gerbang utama parkiran penuh sudah lama dibiarkan",0,0,0,0,NONE
+"permisi, bau sampah menyengat tolong dicek ya",1,0,0,0,SAMPAH
+pak tembok rusak,0,0,0,1,RETAKAN
+banyak sampah di halaman gedung D tolong dicek ya,1,0,0,0,SAMPAH
+di kantin ada lubang besar di jalan mengganggu banget,0,1,0,0,LUBANG
+woi tembok pagar retak dekat toilet parah banget,0,0,0,1,RETAKAN
+woi lantai retak di dekat lapangan futsal,0,0,0,1,RETAKAN
+gaes pintu susah dibuka di gedung e,0,0,0,0,NONE
+"tolong perbaiki, tumpukan sampha menggunung di jalan menuju rektorat parah banget",1,0,0,0,SAMPAH
+info: di dekat kolam kampus tiang besi berkarat,0,0,1,0,KARATAN
+"permisi, di dekat kolam kampus lampu jalan redup tolong dicek ya",0,0,0,0,NONE
+"tolong perbaiki, di jalan belakang kampus banyak sampah tolong dicek ya",1,0,0,0,SAMPAH
+"mohon dicek, tembok rusak dan retak",0,0,0,1,RETAKAN
+di jalan menuju rektorat dinding gedung retak memanjang mohon segera dibersihkan,0,0,0,1,RETAKAN
+kak AC ruang kelas tiidak dingin di dekat lapangan futsal,0,0,0,0,NONE
+pak dekat perpustakaan sampah pastik bertebaran sudah lama dibiarkan,1,0,0,0,SAMPAH
+gaes di samping laboratorium pagar sudah karatan makasih,0,0,1,0,KARATAN
+keran air berkarat di dekat halte,0,0,1,0,KARATAN
+lubang di jalan membahayakan pengendara motor di koridor gedung C sudah lama dibiarkan,0,1,0,0,LUBANG
+info: papan tulis sulit dibaca di dekat kolam kampus mohon segera dibersihkan,0,0,0,0,NONE
+"haalo, tembok mau roboh karena retak sudah lama dibiarkan",0,0,0,1,RETAKAN
+"mohon dicek, di fakultas ekonomi tembok rusak dan retak sudah seminnggu begini",0,0,0,1,RETAKAN
+gaes kran air bocor di dekat kolam kampus mengganggu banget,0,0,0,0,NONE
+kak kursi kurang untuk peserta seminar di lantai 2 gedung C mohon segera dibersihkan,0,0,0,0,NONE
+kanopi berkarat dan keropos di lantai 2 gedung C,0,0,1,0,KARATAN
+"tolong perbaiki, ada kantong kresek berisi sampah makasih",1,0,0,0,SAMPAH
+"info: di kantin sampah daun dan plastik menumpuk, lantai beton retak terus aspal bolong tolong dicek ya",1,1,0,1,"SAMPAH,LUBANG,RETAKAN"
+min di fakultas ekonomi banyak sampah makanan parah banget,1,0,0,0,SAMPAH
+woi dekat toilet tempat sampah penuh dan meluap,1,0,0,0,SAMPAH
+min suara bising dari pembangunan di samping laboratorium,0,0,0,0,NONE
+info: railing tangga berkarat sudah lama dibiarkan,0,0,1,0,KARATAN
+info: meja berkarat di sekitar asrama bahaya banget,0,0,1,0,KARATAN
+di gedung E bangku besi banyak karat tolong dicek ya,0,0,1,0,KARATAN
+"halo, tembok pagar retak tolong dicek ya",0,0,0,1,RETAKAN
+gaes suara bising dari pembangunan di ruang kelas 3.2,0,0,0,0,NONE
+pak di ruang kelas 3.2 tembok pecah-pecah udah lama ga diperbaiki,0,0,0,1,RETAKAN
+min banyak lubang kecil di jalan di depan gedung A mengganggu banget,0,1,0,0,LUBANG
+tiang besi berkarat makasih,0,0,1,0,KARATAN
+tembok mau roboh karena retak di dekat lapangan futsal sudah lama dibiarkan,0,0,0,1,RETAKAN
+kak dekat toile tlantai beton retak udah lama ga diperbaiki,0,0,0,1,RETAKAN
+kak di belakang masjid kampus tembok retak,0,0,0,1,RETAKAN
+rak besi karatan di ruang kelas 3.2 sudah lama dibiarkan,0,0,1,0,KARATAN
+di belakang gedung B plafon retak dan mengelupas mohon segera dibersihkan,0,0,0,1,RETAKAN
+woi bangku besi banyak karat di koridor gedung C mohon segera dibersihkan,0,0,1,0,KARATAN
+"tolong perbaiki, tong sampah tidak muat lagi di jalan menuju rektorat bahaya banget",1,0,0,0,SAMPAH
+"min di jalan menuju rektorat tiang besi berkarat, selain itu banyak sampah berserakan sudah seminggu begini",1,0,1,0,"SAMPAH,KARATAN"
+aspal terkelupas dan berlubang disini tolong segera ditindaklanjuti,0,1,0,0,LUBANG
+"permisi, meja berkarat di area parkir dosen",0,0,1,0,KARATAN
+"mohon dicek, kotor banyak sampah",1,0,0,0,SAMPAH
+pintu susah dibuka di belakang gedung b makasih,0,0,0,0,NONE
+info: sampah dibiarkan membusuk di dekat gerbang utama bahaya banget,1,0,0,0,SAMPAH
+kak puntung rokok berserakan di kantin,1,0,0,0,SAMPAH
+botol bekas minuman dibiarkan di jalan belakang kampus mohon segera dibersihkan,1,0,0,0,SAMPAH
+kak di edung e kursi besi karatan,0,0,1,0,KARATAN
+"halo, meja karatan di dekat pos satpam sudah lama dibiarkan",0,0,1,0,KARATAN
+"tolong perbaiki, ada retakan besar di dinding dan ada kantong kresek berisi sampah di fakultas ekonomi tolong dicek ya",1,0,0,1,"SAMPAH,RETAKAN"
+kak sampah dibiarkan membusuk di sekitar asrama tolong segera ditindaklanjuti,1,0,0,0,SAMPAH
+min kanopi berkarat dan keropos di depan gedung A,0,0,1,0,KARATAN
+"aspal bologn, tembok rusak di dekat pos satpam",0,1,0,1,"LUBANG,RETAKAN"
+jalan bolong-bolong di kantin,0,1,0,0,LUBANG
+"mohon dicek, dinding gedung retak memanjang di dekat gerbang utama tolong segera ditindaklanjuti",0,0,0,1,RETAKAN
+"tolong perbaiki, di sini tiang lampu berkarat serta keramik pecah dan retak",0,0,1,1,"KARATAN,RETAKAN"
+paving block amblas membentuk lubang parah banget,0,1,0,0,LUBANG
+kak proyektor tidak menyala udah lama ga diperbaiki,0,0,0,0,NONE
+di halaman gedung D lubang di jalan membahayakan pengendara motor udah lama ga diperbaiki,0,1,0,0,LUBANG
+woi kran air bocor di dekat kolam akmpus udah lama ga diperbaiki,0,0,0,0,NONE
+"permisi, tiang besi berkarat di fakultas ekonomi",0,0,1,0,KARATAN
+sampah menyumbat selokan di depan aula,1,0,0,0,SAMPAH
+woi tembok rusak dan retak di sampig laboratorium tolong dicek ya,0,0,0,1,RETAKAN
+"tolong perbaiki, di koridor gedung C tangga besi karatan juga jalanan berlubang",0,1,1,0,"LUBANG,KARATAN"
+"halo, dinding gedung retak memanjang di ruang kelas 3.2 mengganggu banget",0,0,0,1,RETAKAN
+info: aspal bolong tolong segera ditindaklanjuti,0,1,0,0,LUBANG
+gaes lubang di aspal makin besar parah banget,0,1,0,0,LUBANG
+"lapor, di dekat lapangan futsal tiang besi berkarat",0,0,1,0,KARATAN
+tanah amblas jadi lubang di koridor gedung C mohon segera dibersihkan,0,1,0,0,LUBANG
+di parkiran motor retakan di lantai makin melebar,0,0,0,1,RETAKAN
+woi dekat toilet lantai retak mengganggu banget,0,0,0,1,RETAKAN
+"lapor, di sebelah gedung B tembok retak sudah seminggu begini",0,0,0,1,RETAKAN
+"tolong perrbaiki, ruangan terlalu panas di sekitar asrama",0,0,0,0,NONE
+"permisi, lantai retak di ruang kelas 3.2",0,0,0,1,RETAKAN
+"permisi, tembok russak mengganggu banget",0,0,0,1,RETAKAN
+ada lubang yang tergenang air saat hujan di sebelah gedung A udah lama ga diperbaiki,0,1,0,0,LUBANG
+lampu koridor mati dekat toilet tolong dicek ya,0,0,0,0,NONE
+gaes pagar sudah karatan di sini sudah seminggu begini,0,0,1,0,KARATAN
+pak di sebelah gedung B botol bekas minuman dibiarkan,1,0,0,0,SAMPAH
+"permisi, lantai retak dii samping laboratorium tolong dicek ya",0,0,0,1,RETAKAN
+"permisi, di area parir dosen jalanan berlubang",0,1,0,0,LUBANG
+info: besi penyangga sudah berkarat di dekat pos satpam tolong segera ditindaklanjuti,0,0,1,0,KARATAN
+sampah dibiarkan membusuk di area kampus,1,0,0,0,SAMPAH
+woi tembok pecah-pecah di lantai 2 gedung C mengganggu banget,0,0,0,1,RETAKAN
+parkiran penuh di dekat gerbang utama sudah lama dibiarkan,0,0,0,0,NONE
+woi sampah plastik bertebaran makasih,1,0,0,0,SAMPAH
+di halaman gedung d gerbang karatan tolong segera ditindaklanjuti,0,0,1,0,KARATAN
+"lapor, kran air bocor di lorong fakultas teknik bahaya banget",0,0,0,0,NONE
+min di taman kampus tiang bangunan retk,0,0,0,1,RETAKAN
+tanah amblas jadi lubang di jalan belakang kampus udah lama ga diperbaiki,0,1,0,0,LUBANG
+woi kantin ramai saat istirahat di koridor gedung C parah banget,0,0,0,0,NONE
+ada kantong kresek berisi sampah di lantai 2 gedung C tolong dicek ya,1,0,0,0,SAMPAH
+kantin ramai saat istirahat di area parkir dosentolong dicek ya,0,0,0,0,NONE
+info: jadwal kuliah berubah,0,0,0,0,NONE
+min pagar sudah karatan mengganggu banget,0,0,1,0,KARATAN
+"di sekitar asrama bangku besi banyak karat, selain itu tong sampah tidak muat lagi tolong dicek ya",1,0,1,0,"SAMPAH,KARATAN"
+"tolong perbakii, jalan bolong-bolong di dekat pos satpam",0,1,0,0,LUBANG
+"permisi, kursi kurang untuk peserta seminar di lapangan basket tolong dicek ya",0,0,0,0,NONE
+tiang bangunan retak di belakang gedung B,0,0,0,1,RETAKAN
+min dinding gedung retak memanjang di lantai 2 gedung c tolong segera ditindaklanjuti,0,0,0,1,RETAKAN
+"permisi, sampah kertas berhamburan dekat toilet sudah seminggu begini",1,0,0,0,SAMPAH
+kak sampah dibiarkan membusuk di dekat gerbang utama mengganggu banget,1,0,0,0,SAMPAH
+"tolong perbaiki, sampah kertas berhamburan",1,0,0,0,SAMPAH
+di dekat lapangan futsal tembok pagar retak mohon segera dibersihkan,0,0,0,1,RETAKAN
+"permisi, kucing berkeliaran tolong dicek ya",0,0,0,0,NONE
+di sekitar asrama plafon retak dan mengelupas udah lama ga diperbaiki,0,0,0,1,RETAKAN
+pak jalan bolong-bolong di belakang masjid kampus bahaya banget,0,1,0,0,LUBANG
+di gedung E ada retakan besar di dinding mohon segera dibersihkan,0,0,0,1,RETAKAN
+di samping laboratorium rangka atap berkarat parah,0,0,1,0,KARATAN
+"mohon dicek, kotor banyak sampah di sekitar asrama udah lama ga diperbaiki",1,0,0,0,SAMPAH
+"lapor, ada lubang yang tergenang air saat hujan disini tolong dicek ya",0,1,0,0,LUBANG
+"halo, lubang di aspal makin besar",0,1,0,0,LUBANG
+tiang bangunan retak di sekitar kantin,0,0,0,1,RETAKAN
+"mohon dicek, jalannya berlubang parah terus sampah daun dan plastik menumpuk, selain itu bangku besi banyak karat di samping laboratorium mohon segera dibersihkan",1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+kak di jalan bbelakang kampus botol bekas minuman dibiarkan,1,0,0,0,SAMPAH
+"woi jalan bolong-bolong, tembok retak sudah lama dibiarkan",0,1,0,1,"LUBANG,RETAKAN"
+"lapor, di depan gedung A railing tangga berkarat juga ada lubang yang tergenang air saat hujan tolong dicek ya",0,1,1,0,"LUBANG,KARATAN"
+"permisi, di jalan menuju rektorat kursi kurang untuk peserta seminar",0,0,0,0,NONE
+colokan listrik tidak berfungsi di depan gedung a,0,0,0,0,NONE
+"permisi, di dekat halte lantai beton retak",0,0,0,1,RETAKAN
+min ruangan terlalu panas di kantin bahaya banget,0,0,0,0,NONE
+"lapor, lubang di aspal makin besar, selain itu sampah kertas berhamburan di belakang masjid kampus udah lama ga diperbaiki",1,1,0,0,"SAMPAH,LUBANG"
+gaes di jalan belakang kampus jalan bolong-bolong mohon segera dibersihkan,0,1,0,0,LUBANG
+info: tanah amblas jadi lubangg udah lama ga diperbaiki,0,1,0,0,LUBANG
+"mohon dicek, tangga besi karatan di ruang kelas 3.2 tolong segera ditindaklanjuti",0,0,1,0,KARATAN
+pak di dekat pos satpam dinding retak parah tolong segera ditindaklanjuti,0,0,0,1,RETAKAN
+gaes kursi besi karatan di sebelah gedung B sudah lama dibiarkan,0,0,1,0,KARATAN
+"lapor, tembok retak serta tumpukan sampah menggunung di sekitar kantin makasih",1,0,0,1,"SAMPAH,RETAKAN"
+di fakultas ekonomi suara bising dari pembangunan sudah lama dibiarkan,0,0,0,0,NONE
+info: plafon retakd an mengelupas di sebelah gedung B,0,0,0,1,RETAKAN
+lantai retak,0,0,0,1,RETAKAN
+kak tembok retak,0,0,0,1,RETAKAN
+di dekat gerbang utama tembok retak udah lama ga diperbaiki,0,0,0,1,RETAKAN
+air toilet tidak mengalir di depan aula sudah lama dibiarkan,0,0,0,0,NONE
+pak tembok pagar retak di sekitar kantin mengganggu banget,0,0,0,1,RETAKAN
+kak kursi besi karatan di lapangan basket moho segera dibersihkan,0,0,1,0,KARATAN
+"halo, rak besi karatan mengganggu banget",0,0,1,0,KARATAN
+"pak tiang besi berkarat, paving block amblas membentuk lubang serta bau sampah menyengat di area kampus tolong segera ditindaklanjuti",1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+di sebelah gedung A sampah kertas berhamburan sudah seminggu begini,1,0,0,0,SAMPAH
+min banyak mahasiswa berkumpul di belakang masjid kampus parah banget,0,0,0,0,NONE
+kak retakan di lantai makin melebar di dekat pos satpam bahaya banget,0,0,0,1,RETAKAN
+banyak lubang kecil di jalan di koridor gedung C mohon segera dibersihkan,0,1,0,0,LUBANG
+info: sampah plastik bertebaran di koridor gedung C sudah lama dibiarkan,1,0,0,0,SAMPAH
+disini suara bising dari pembangunan,0,0,0,0,NONE
+di koridor gedung C aspal jebol mohon segera dibersihkan,0,1,0,0,LUBANG
+bau sampah menyengat dan dinding retak-retak di depan aula tolong dicek ya,1,0,0,1,"SAMPAH,RETAKAN"
+sampah plastik bertebaran terus aspal terkelupas dan berlubang disini parah banget,1,1,0,0,"SAMPAH,LUBANG"
+ada lubang di trotoar di lantai 2 gedung C,0,1,0,0,LUBANG
+pak di lapangan basket dinding retak parah sudah seminggu begini,0,0,0,1,RETAKAN
+"tolong perbaiki, di depan aula plafon retak dan mengelupas juga sampah dibiarkan membusuk sudah lama dibiarkan",1,0,0,1,"SAMPAH,RETAKAN"
+woi di jala nbelakang kampus ada retakan di tembok bahaya banget,0,0,0,1,RETAKAN
+"di lorong fakultas teknik kotor banyak sampah, ada lubang yang tergenang air saat hujan, selain itu cat dinding mengelupas dan retak sudah seminggu begini",1,1,0,1,"SAMPAH,LUBANG,RETAKAN"
+kak kanopi berkarat dan keropos di koridor gedung C tolong dicek ya,0,0,1,0,KARATAN
+info: di samping laboratorium paving block amblas membentuk lubang bahaya banget,0,1,0,0,LUBANG
+"permisi, tembok pecah-pecah di lorong fakultas teknik tolong segera ditindaklanjuti",0,0,0,1,RETAKAN
+"kak keran air berkarat, sampah plastik bertebaran dekat perpustakaan tolong segera ditindaklanjuti",1,0,1,0,"SAMPAH,KARATAN"
+"di lorong fakultas teknik cat dinding mengelupas dan retak, selain itu banyak sampah makanan parah banget",1,0,0,1,"SAMPAH,RETAKAN"
+"mohon dicek, di lapangan basket retakan di lantai makin melebar makasih",0,0,0,1,RETAKAN
+woi banyak sampah makanan di area parkir dosen bahaya banget,1,0,0,0,SAMPAH
+retakan di lantai makin melebar di area kampus bahaya banget,0,0,0,1,RETAKAN
+"lapor, lift sering macet di koridor gedung c sudah seminggu begini",0,0,0,0,NONE
+ada retakan besar di dinding di area kampus parah banget,0,0,0,1,RETAKAN
+"tolong perbaiki, di area kampus lantai beton retak",0,0,0,1,RETAKAN
+dekat perpustakaan sampah dibiarkan membusuk,1,0,0,0,SAMPAH
+"permisi, jalan bolong-bolong juga pagar besi berkarat di belakang gedung B makasih",0,1,1,0,"LUBANG,KARATAN"
+kak di sebelah gedung b besi penyangga sudah berkarat mengganggu banget,0,0,1,0,KARATAN
+info: sampah plastik bertebaran di fakultas ekonomi bahaya banget,1,0,0,0,SAMPAH
+pagar sudah karatan di jalan belakang kampus bahaya banget,0,0,1,0,KARATAN
+"halo, di sekitar asrama puntung rokok berserakan sudah seminggu begini",1,0,0,0,SAMPAH
+retakan di lantai makin melebar serta lubang di jalan membahayakkan pengendara motor di sebelah gedung A,0,1,0,1,"LUBANG,RETAKAN"
+"permisi, tiang besi berkarat di kantin tolong segera ditindaklanjuti",0,0,1,0,KARATAN
+min di sebelah gedung B jalan berlubang dalam sudah seminggu begini,0,1,0,0,LUBANG
+pak banyak lubang kecil di jalan di rruang kelas 3.2 mengganggu banget,0,1,0,0,LUBANG
+di area parkir dosen sampah daun dan plastik menumpuk sudah seminggu begini,1,0,0,0,SAMPAH
+info: di dekat gerbang utama sampah daun dan plastik menumpuk mengganggu banget,1,0,0,0,SAMPAH
+min tembok pecah-pecah bahaya banget,0,0,0,1,RETAKAN
+di lantai 2 gedung C lantai retak terus kanopi berkarat dan keropos terus sampah dibiarkan membusuk mengganggu banget,1,0,1,1,"SAMPAH,KARATAN,RETAKAN"
+min sampah dibiarkan membusuk di halaman gedung D tolong segera ditindaklanjuti,1,0,0,0,SAMPAH
+woi di kantin kelasnya nyaman dan bersih,0,0,0,0,NONE
+"mohon diicek, sampah menyumbat selokan di sebelah gedung A tolong dicek ya",1,0,0,0,SAMPAH
+besi penyangga sudah berkaat sudah seminggu begini,0,0,1,0,KARATAN
+info: dekat perpustakaan sampah daun dan plastik menumpuk,1,0,0,0,SAMPAH
+gaes di lorong fakultas teknik lampu koridor mati sudah seminggu begini,0,0,0,0,NONE
+"tolong perbaiki, keramik pecah dan retak di belakang gedung B parah banget",0,0,0,1,RETAKAN
+"mohon dicek, tembok rusak terus aspal jebol di fakultas ekonomi makasih",0,1,0,1,"LUBANG,RETAKAN"
+info: di dekat pos satpam dinding retak-retak,0,0,0,1,RETAKAN
+"halo, pagar besi berkarat parah banget",0,0,1,0,KARATAN
+"permisi, di gedung e engsel pintu berkarat",0,0,1,0,KARATAN
+woi rangka atap berkarat parah di lapangan basket,0,0,1,0,KARATAN
+"permisi, keran air berkarat di taman kampus makasih",0,0,1,0,KARATAN
+ada lubang yang tergenang air saat hujan juga sampah kertas berhamburan terus tiang besi berkarat di fakultas ekonomi,1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+"halo, pohon tumbang di halaman gedung D tolong segera ditindaklanjuti",0,0,0,0,NONE
+lubang menganga di trotoar di depan gedung a udah lama ga diperbaiki,0,1,0,0,LUBANG
+tiang besi berkarat terus botol bekas minuman dibiarkan dekat perpustakaan tolong segera ditindaklanjuti,1,0,1,0,"SAMPAH,KARATAN"
+"halo, di samping aboratorium besi penyangga sudah berkarat",0,0,1,0,KARATAN
+"lapor, di jalan menuju rektorat keramik pecah dan retak tolong segera ditindaklanjuti",0,0,0,1,RETAKAN
+"lapor, dekat toilet gerbang karatan serta retakan di lantai makin melebar dan botol bekas minuman dibiarkan parah banget",1,0,1,1,"SAMPAH,KARATAN,RETAKAN"
+pagar sudah karatan dan dinding gedung retak memanjang di jalan belakang kampus udah lama ga diperbaiki,0,0,1,1,"KARATAN,RETAKAN"
+"lapor, di sebelah gedung a sampah kertas berhamburan makasih",1,0,0,0,SAMPAH
+gaes pintu susah dibuka di kantin mohon segera dibersihkan,0,0,0,0,NONE
+lantai retak di lorong fakultas teknik tolong dicek ya,0,0,0,1,RETAKAN
+woi plafon retak dan mengelupas di dekat pos satpam tolong dicek ya,0,0,0,1,RETAKAN
+tiang besi berkarat di dekat kolam kampus parah banget,0,0,1,0,KARATAN
+dekat toilet besi penyangga sudah berkarat bahaya banget,0,0,1,0,KARATAN
+"kak kursi besi karatan, sampah menumpuk mengganggu banget",1,0,1,0,"SAMPAH,KARATAN"
+"permisi, air toilet tidak mengalir dekat toilet sudah seminggu begini",0,0,0,0,NONE
+"lapor, pagar suda karatan makasih",0,0,1,0,KARATAN
+"mohon dicek, banyak lubang kecil di jalan di sebelah gedung A",0,1,0,0,LUBANG
+sampah plastik bertebaran sudah seminggu begini,1,0,0,0,SAMPAH
+info: aspal bolong di dekat gerbang utama sudah seminggu begini,0,1,0,0,LUBANG
+pagar sudah karatan di halaman gedung D udah lama ga diperbaiki,0,0,1,0,KARATAN
+gaes jalan rusak banyak lubang di halaman gedung d mengganggu banget,0,1,0,0,LUBANG
+min lubang menganga di trotoar di depan aula,0,1,0,0,LUBANG
+"permisi, kursi besi karatan di ruang kelas 3.2",0,0,1,0,KARATAN
+"woi retakan di lantai makin melebar, ada lubang yang tergenang air saat hujan",0,1,0,1,"LUBANG,RETAKAN"
+pak di depan aula ada lubang mengganggu banget,0,1,0,0,LUBANG
+woi di sebelah gedung A sampah dibiarkan membusuk sudah lama dibiarkan,1,0,0,0,SAMPAH
+woi lift sering macetm akasih,0,0,0,0,NONE
+pak ruangan terlalu panas di fakultas ekonomi udah lama ga diperbaiki,0,0,0,0,NONE
+kak di sini colokan listrik tidak berfungsi,0,0,0,0,NONE
+gaes pagar besi berkarat di halaman gedung d bahaya banget,0,0,1,0,KARATAN
+woi ada lubang besar di jalan tolong dicek ya,0,1,0,0,LUBANG
+tumpukan sampah menggunung dekat toilet tolong segera ditindaklanjuti,1,0,0,0,SAMPAH
+puntung rokok berserakan di kantin makasih,1,0,0,0,SAMPAH
+"halo, di sebelah gedung A tembok pagar retak terus pagar besi berkarat tolong dicek ya",0,0,1,1,"KARATAN,RETAKAN"
+"permisi, ada lubang yang tergenang air saat hujan di depan aula mengganggu banget",0,1,0,0,LUBANG
+"permisi, rangka atap berkarat parah di fakultas ekonomi",0,0,1,0,KARATAN
+info: dinding retak-retak di taman kampus,0,0,0,1,RETAKAN
+min sampah dibiarkan membbusuk di dekat kolam kampus,1,0,0,0,SAMPAH
+pak sampah belum diangkut berhari-hari di belakang gedung B makasih,1,0,0,0,SAMPAH
+info: jalan rusak banyak lubang juga tumpukan sampah mengggunung terus bangku besi banyak karat di area kampus,1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+woi pintu besi penuh karat di dekat halte sudah seminggu begini,0,0,1,0,KARATAN
+gaes rak besi karatan di dekat lapangan futsal,0,0,1,0,KARATAN
+info: lantai retak dan tiang besi berkarat di sini tolong dicek ya,0,0,1,1,"KARATAN,RETAKAN"
+keran air berkarat di kantin sudah lama dibiarkan,0,0,1,0,KARATAN
+"lapor, sampah daun dan plastik menumpuk, bangku besi banyak karat, selain itu jalan berlubang dalam di taman kampus tolong dicek ya",1,1,1,0,"SAMPAH,LUBANG,KARATAN"
+pak aspal terkelupas dan berlubang mengganggu banget,0,1,0,0,LUBANG
+"halo, lantai retak, selain itu tangga besi karatan di dekat gerbang utama",0,0,1,1,"KARATAN,RETAKAN"
+"permisi, dekat toilet banyak mahasiswa berkumpul bahaya banget",0,0,0,0,NONE
+"tolong perbaiki, tangga besi karatan di sini",0,0,1,0,KARATAN
+ada lubang besar di jalan di sekitar asrama mengganggu banget,0,1,0,0,LUBANG
+"lapor, tempat sampah penuh dan meluap di sekitar kantin udah lama ga diperbaiki",1,0,0,0,SAMPAH
+woi tembok pecah-pecah di kantin mohon segera dibersihkan,0,0,0,1,RETAKAN
+"permisi, bau sampah menyengat di jalan belakang kampus",1,0,0,0,SAMPAH
+"halo, tempat sampah penuh dan meuap dekat perpustakaan sudah seminggu begini",1,0,0,0,SAMPAH
+min papan tulis sulit dibaca di sebelah gedung A mohon segera dibersihkan,0,0,0,0,NONE
+woi tempat sampah penuh dan meluap di area kampus,1,0,0,0,SAMPAH
+kantin ramai saat istirahat di lapangan basket makasih,0,0,0,0,NONE
+tembok pecah-pecah juga ada lubang besar di jalan di lapangan basket sudah seminggu begini,0,1,0,1,"LUBANG,RETAKAN"
+pak botol bekas minuman dibiarkan tolong segera ditindakalnjuti,1,0,0,0,SAMPAH
+"mohon dicek, cuaca hujan deras di depan aula mengganggu banget",0,0,0,0,NONE
+"halo, di dekat halte cuaca hujan deras tolong dicek ya",0,0,0,0,NONE
+"lapor, tembok pecah-pecah di lapangan basket makasih",0,0,0,1,RETAKAN
+tembok retak di belakang gedung B parah banget,0,0,0,1,RETAKAN
+"min dinding retak parah, kanopi berkarat dan keropos di area parkir dosen",0,0,1,1,"KARATAN,RETAKAN"
+"halo, di jalan belakang kampus sampah dibiarkan membusuk sudah seminggu begini",1,0,0,0,SAMPAH
+pak banyak sampah makanan di lantai 2 gedung C,1,0,0,0,SAMPAH
+"mohon dicek, banyak lubang kecil di jalan juga lantai beton retak di fakultas ekonomi",0,1,0,1,"LUBANG,RETAKAN"
+woi lampu jalan redup di dekat kolam kampus bahaya banget,0,0,0,0,NONE
+gaes rangka atap berkarat parah di jalan belakang kampus makasih,0,0,1,0,KARATAN
+di lorong fakultas teknik suara bising dari pembangunan,0,0,0,0,NONE
+info: pintu susah dibuka di parkiran motoor bahaya banget,0,0,0,0,NONE
+banyak sampah makanan di lapangan basket tolong segera ditindaklanjuti,1,0,0,0,SAMPAH
+"bangku besi banyak karat, selain itu tembok mau roboh karena retak dekat perpustakaan parah banget",0,0,1,1,"KARATAN,RETAKAN"
+kak tumpukan sampah menggunung,1,0,0,0,SAMPAH
+tembok retak dekat toilet udah lama ga diperbaiki,0,0,0,1,RETAKAN
+"permisi, tembok pagar retak di kantin parah banget",0,0,0,1,RETAKAN
+"permisi, ada retakan di tembok di dekat halte tolng dicek ya",0,0,0,1,RETAKAN
+di ruang kelas 3.2 wifi lambat bahaya banget,0,0,0,0,NONE
+min aspal jebol terus sampah menumpuk bahaya banget,1,1,0,0,"SAMPAH,LUBANG"
+"permisi, pohon tumbang sudah seminggu begini",0,0,0,0,NONE
+"mohon dicek, sampah menumpuk",1,0,0,0,SAMPAH
+min jalan bolong-bolong di dekat pos satpam,0,1,0,0,LUBANG
+info: papan tulis sulit dibaca di dekat gerbang utama sudah seminggu begini,0,0,0,0,NONE
+banyak mahasiswa berkumpul disini,0,0,0,0,NONE
+"lapor, di area kampus jalan bolong-bolong serta tembok pagar retak, selain itu tumpukan sampah menggunung",1,1,0,1,"SAMPAH,LUBANG,RETAKAN"
+"mohon dicek, dekat toilet banyak sampah tolong segera ditindaklanjuti",1,0,0,0,SAMPAH
+gaes di fakultas ekonomi ada lubang terus gerbang karatan udah lama ga diperbaiki,0,1,1,0,"LUBANG,KARATAN"
+rangka atap berkarat parah di koridor gedung c,0,0,1,0,KARATAN
+"woi keramik pecah dan retak, aspal terkelupas dan berlubang di area parkir dosen",0,1,0,1,"LUBANG,RETAKAN"
+pak ada lubang yang tergenang air saat hujan,0,1,0,0,LUBANG
+info: dihalaman gedung D banyak lubang kecil di jalan bahaya banget,0,1,0,0,LUBANG
+gaes tiang besi berkarat di koridor gedung C bahaya banget,0,0,1,0,KARATAN
+gaes tanah amblas jadi lubang di parkiran motor mohon segera diberssihkan,0,1,0,0,LUBANG
+kak ada retakan besar di dinding,0,0,0,1,RETAKAN
+di dekat lapangan futsal kotor banyak sampah tolong dicek ya,1,0,0,0,SAMPAH
+kak ada lubang di trotoar di depan gedung A,0,1,0,0,LUBANG
+di taman kampus keramik pecah dan retak mohon segera dibersihkan,0,0,0,1,RETAKAN
+woi ada kantong kresek berisi sampah di ruang kelas 3.2,1,0,0,0,SAMPAH
+min kursi besi karatan di depan gedung A tolong segera ditindaklanjuti,0,0,1,0,KARATAN
+"lapor, jalanan berlubang dekat toilet",0,1,0,0,LUBANG
+kak banyak sampah makanan di belakang gedung b tolong dicek ya,1,0,0,0,SAMPAH
+gaes banyak sampah makanan terus banyak lubang kecil di jalan dekat perpustakaan sudah seminggu begini,1,1,0,0,"SAMPAH,LUBANG"
+sampah daun dan plastik menumpuk mohon segera dibersihkan,1,0,0,0,SAMPAH
+pak di dekat kolam kampus tiang lampu berkarat makasih,0,0,1,0,KARATAN
+"halo, lampu jalan redup ddi dekat lapangan futsal mengganggu banget",0,0,0,0,NONE
+"halo, proyektor tidak menyala di sebelah gedung a mengganggu banget",0,0,0,0,NONE
+"di sebelah gedung b ada retakan besar di dinding, banyak lubang kecil di jalan tolong segera ditindaklanjuti",0,1,0,1,"LUBANG,RETAKAN"
+"lapor, di jalan belakang kampus lubang di aspal makin besar bahaya banget",0,1,0,0,LUBANG
+"permisi, sampah dibiarkan membusuk di jalan belakang kampus",1,0,0,0,SAMPAH
+"tolong perbaiki, disini ada retakan besar di dinding udah lama ga diperbaiki",0,0,0,1,RETAKAN
+tiang lampu berkarat di jalan belakang kampus udah lama ga diperbaiki,0,0,1,0,KARATAN
+"tolong perbaiki, ada lubang di halamang edung d mohon segera dibersihkan",0,1,0,0,LUBANG
+"tolong perbaiki, di depan aula kran air bocor udah lama ga diperbaiki",0,0,0,0,NONE
+pagar besi berkarat id halaman gedung D tolong dicek ya,0,0,1,0,KARATAN
+banyak sampah di belakang masjid kampus mohon segera dibersihkan,1,0,0,0,SAMPAH
+"mohon dicek, di kantin tumpukan sampah menggunung tolong segera ditindaklanjuti",1,0,0,0,SAMPAH
+"permisi, ada retakan di tembok tolong dicek ya",0,0,0,1,RETAKAN
+aspal bolong di gedung E udah lama ga diperbaiki,0,1,0,0,LUBANG
+"permisi, di dekat halte ada lubang di trotoar bahaya banget",0,1,0,0,LUBANG
+woi ada lubang di trotoar di dekat kolam kampus,0,1,0,0,LUBANG
+"permisi, rangka atap berkarat parah di area parkir dosen makasih",0,0,1,0,KARATAN
+tangga besi karatan makasih,0,0,1,0,KARATAN
+info: railing tangga berkrat terus ada retakan besar di dinding di depan aula mohon segera dibersihkan,0,0,1,1,"KARATAN,RETAKAN"
+sampah belum diangkut berhari-hari di sebelah gedung a tolong segera ditindaklanjuti,1,0,0,0,SAMPAH
+"halo, tiang lampu berkarat di lapangan basket mohon segera dibersihkan",0,0,1,0,KARATAN
+woi di samping laboratorium ada retakan besar di dinding sudah lama dibiarkan,0,0,0,1,RETAKAN
+sampah menyumbat selokan di jalan belakang kampus,1,0,0,0,SAMPAH
+"tolong perbaiki, ada lubang besar di jalan dekat perpustakaan",0,1,0,0,LUBANG
+gaes aspal jebol dekat toilet,0,1,0,0,LUBANG
+kak sampah kertas berhamburan di lapangan basket udah lama ga diperbaiki,1,0,0,0,SAMPAH
+"tolong perbaiki, di area parkir dosen pagar besi berkarat",0,0,1,0,KARATAN
+min lantai retak dekat eprpustakaan mohon segera dibersihkan,0,0,0,1,RETAKAN
+kotor banyak sampah,1,0,0,0,SAMPAH
+banyak sampah serta ada retakan di tembok di dekat pos satpam sudah lama dibiarkan,1,0,0,1,"SAMPAH,RETAKAN"
+"halo, di dekat halte tembok rusak juga tong sampah tidak muat lagi serta jalan rusak banyak lubang tolong segera ditindaklanjuti",1,1,0,1,"SAMPAH,LUBANG,RETAKAN"
+woi aspal jebol di dekat halte tolong dicek ya,0,1,0,0,LUBANG
+lubang di aspal makin besar di dekat gerbang utama tolong segera ditindaklanjuti,0,1,0,0,LUBANG
+"tolong perbaiki, di dekat halte ada retakan besar di dinding sudah seminggu begini",0,0,0,1,RETAKAN
+sampah menumpuk dekat perpustakaan,1,0,0,0,SAMPAH
+gaes taman terlihat asri di dekat kolam kampus udah lama ga diperbaiki,0,0,0,0,NONE
+"tolong perbaiki, pagar sudah karatan juga banyak sampah makanan di samping laboratorium",1,0,1,0,"SAMPAH,KARATAN"
+gerbang karatan di dekat gerbang utama parah banget,0,0,1,0,KARATAN
+gaes ada lubang besar di jalan serta bau sampah menyengat di ruang kelas 3.2 sudah seminggu begini,1,1,0,0,"SAMPAH,LUBANG"
+min kanopi berkarat dan keropos di lapangan basket tolong segera ditindaklanjuti,0,0,1,0,KARATAN
+"permisi, sampah daun dan plastik menumpuk, selain itu ada lubang besar di jalan di halaman gedung D",1,1,0,0,"SAMPAH,LUBANG"
+tembok mau roboh karena retak di dekat pos satpam mengganggu banget,0,0,0,1,RETAKAN
+tembok pagar retak,0,0,0,1,RETAKAN
+gaes pohon tumbang di sini mohon segera dibersihkan,0,0,0,0,NONE
+"permisi, kursi kurang untuk peserta seminar di sebelah gedung A bahaya banget",0,0,0,0,NONE
+besi penyangga sudah berkarat di geduung E,0,0,1,0,KARATAN
+woi rak besi karatan di ruang kelas 3.2,0,0,1,0,KARATAN
+"woi ada lubang, selain itu banyak sampah berseakan di dekat halte sudah seminggu begini",1,1,0,0,"SAMPAH,LUBANG"
+"mohon dicek, banyak sampah berserakan sserta aspal bolong di koridor gedung C tolong dicek ya",1,1,0,0,"SAMPAH,LUBANG"
+"halo, ada lubang di trotoar di sini",0,1,0,0,LUBANG
+"lapor, lift sering macet di korior gedung C udah lama ga diperbaiki",0,0,0,0,NONE
+min kotor banyak sampah,1,0,0,0,SAMPAH
+"lapor, tiang lampu berkarat parah banget",0,0,1,0,KARATAN
+gaes ada retakan besar di dinding mengganggu banget,0,0,0,1,RETAKAN
+"banyak sampah, selain itu aspal jebol serta lantai retak di belakang gedung B tolong dicek ya",1,1,0,1,"SAMPAH,LUBANG,RETAKAN"
+"permisi, papan tulis sulit dibaca di belakang masjid kampus sudah seminggu begini",0,0,0,0,NONE
+parkiran penuh di jalan menuju rektorat,0,0,0,0,NONE
+tembok pagar retak tolong segera ditindaklanjuti,0,0,0,1,RETAKAN
+info: di dekat gerbang utama kucing berkeliaran bahaya banget,0,0,0,0,NONE
+"permisi, aspal terkelupas dan berlubang di depan gedung A tolong dicek ya",0,1,0,0,LUBANG
+di lorong fakultas teknik ada kantong kresek berisi sampah juga aspal bolong tolong dicek ya,1,1,0,0,"SAMPAH,LUBANG"
+"permisi, AC ruang kelas tidak dingin di ruang kelas 3.2",0,0,0,0,NONE
+woi tembok pecah-pecah mengganggu banget,0,0,0,1,RETAKAN
+gaes jalan rusak banyak lubang,0,1,0,0,LUBANG
+"mohon dicek, kanopi berkarat dan keropos disini mohon segera dibersihkan",0,0,1,0,KARATAN
+"halo, lubang di aspal makin besar di sekitar kantin tolong dicek ya",0,1,0,0,LUBANG
+woi gerbang karatan di halaman gedung D mohon segera dibersihkan,0,0,1,0,KARATAN
+min pintu besi penuh karat di kantin tolong dicek ya,0,0,1,0,KARATAN
